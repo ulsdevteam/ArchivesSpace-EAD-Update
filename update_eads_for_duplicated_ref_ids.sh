@@ -127,7 +127,7 @@ if containsSession; then
 	for i in $updatedir/*.xml; do xmllint --noout $i; done
 	echo drush -qy --root=/var/www/html/drupal7/ --user=$USER --uri=http://gamera.library.pitt.edu \
 islandora_datastream_crud_push_datastreams \
---datastreams_source_directory=$updatedir --filename_separator=^
+--datastreams_source_directory=$updatedir --filename_separator=^ --no_derivs
 	exit 0
 fi
 
