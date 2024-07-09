@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">us-ppiu-ais196426</eadid><filedesc><titlestmt><titleproper>Guide to the American Transportation Company Records, 1890-1895 <num>AIS.1964.26</num></titleproper><author>Dan Horvath. Revisions occurred to the finding aid as a part of the encoding process on August 5, 2004.</author></titlestmt><publicationstmt><publisher>ULS Archives &amp; Special Collections</publisher><p><date>Summer 2004</date></p><address><addressline>University of Pittsburgh Library System</addressline><addressline>Archives &amp; Special Collections</addressline><addressline>Website: library.pitt.edu/archives-special-collections</addressline><addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline><addressline>URL: <extptr xlink:href="http://library.pitt.edu/archives-special-collections" xlink:show="new" xlink:title="http://library.pitt.edu/archives-special-collections" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-06-11 09:17:10 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>ULS Archives &amp; Special Collections</corpname>
+    </repository>
+    <unittitle>American Transportation Company Records</unittitle>
+    <origination label="Creator">
+      <corpname rules="aacr" source="local">American Transportation Company</corpname>
+    </origination>
+    <unitid>AIS.1964.26</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.625 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1890/1895" type="inclusive">1890-1895</unitdate>
+    <abstract id="aspace_1ad1ad32187ece132a3973ec433e216b">This collection includes bills, receipts, statements, and trip sheets of the American Transportation Company, Fairport, Ohio, 1890-1895. Also included are personal receipts and bills from George E. Tener of Pittsburgh (manager and treasurer of the American Transportation Company).</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <bioghist id="aspace_376126008229d6c2a9c3199f84d7d02b">
+    <head>History</head>
+<p>The American Transportation Company shipped goods along the Great Lakes including ports in Wisconsin, Minnesota, Michigan, and Pennsylvania. The company hauled wheat grain, coal, meats, salt, and other goods. The company maintained two steamships -<emph> John Harper</emph> and <emph>Alex Nimick</emph>; three steam tugs - <emph>Annie</emph>, <emph>George R. Paige</emph>, and <emph>George B. Dickson</emph>; and one dedge - <emph>Black Rock</emph>.</p>  </bioghist>
+  <scopecontent id="aspace_45a1a974b8506b595c1e68c7de62ba71">
+    <head>Scope and Content Notes</head>
+<p>This collection includes bills, receipts, statements, and trip sheets of the American Transportation Company, Fairport, Ohio, 1890-1895. Also included are personal receipts and bills from George E. Tener of Pittsburgh (manager and treasurer of the American Transportation Company. The records are arranged chronologically.</p>  </scopecontent>
+  <accessrestrict id="aspace_414ae6d0c2c2cdd167d0060d0f52651c">
+    <head>Access Restrictions</head>
+<p>No restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_ddc4adeb7bb60ffdbec0a800966ef7d3">
+    <head>Acquisition Information</head>
+<p>Gift of Roberta Tener-Johns, April 1, 1964.</p>  </acqinfo>
+  <prefercite id="aspace_3476f35d9d5acfc8f7c403ba2bf80804">
+    <head>Preferred Citation  </head>
+<p>American Transportation Company Records, 1890-1895, AIS.1964.26, Archives &amp; Special Collections, University of Pittsburgh Library System</p>  </prefercite>
+  <odd id="aspace_3d37937eb85522c380697a4dcea5926e">
+    <head>Previous Citation</head>
+<p>American Transportation Company Records, 1890-1895, AIS.1964.26, Archives Service Center, University of Pittsburgh</p><p>American Transportation Company, Records, 1890-1894, ais 64:26, Archives of Industrial Society, University of Pittsburgh Libraries</p>  </odd>
+  <processinfo id="aspace_3f70fa9c29bc122013bef21f9ba0a7bf">
+    <head>Processing Information  </head>
+<p>This collection was processed by ASC Staff in 1964.</p><p>Revision and rearrangement for the encoded version of the finding aid provided by Dan Horvath on August 5, 2004.</p>  </processinfo>
+  <userestrict id="aspace_1ee2c842ed3496ff1e5f2ec18702c234">
+    <head>Copyright</head>
+<p>Permission for publication is given on behalf of the University of Pittsburgh as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which must also be obtained.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Rivers -- Ohio</subject>
+    <subject source="lcsh">Inland water transportation -- Ohio -- Fairport</subject>
+    <genreform source="aat">Business records</genreform>
+    <subject source="ulstag">Business and Industry</subject>
+    <subject source="ulstag">Transportation</subject>
+    <corpname rules="aacr" source="local">American Transportation Company</corpname>
+    <persname rules="aacr" source="local">Tener, George E. -- Correspondence</persname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref11_18p" level="file"><did><unittitle>Financial Statement</unittitle><unitdate datechar="creation" normal="1890/1890" type="inclusive">1890</unitdate><container id="aspace_6b812ed83a4fd3e14bbfcda1e92e180b" label="Mixed Materials" type="box">1</container><container id="aspace_60d074df1f309005adf25d8bb3c53f5b" parent="aspace_6b812ed83a4fd3e14bbfcda1e92e180b" type="folder">1</container></did></c01><c01 id="aspace_ref12_h8h" level="file"><did><unittitle>Bills, Receipts and Correspondence</unittitle><unitdate datechar="creation" normal="1891/1891" type="inclusive">1891</unitdate><container id="aspace_06de07b85cfb7cd28cd74c63d062a159" label="Mixed Materials" type="box">1</container><container id="aspace_46152fb9ae4b5eb9795c23b288467f2f" parent="aspace_06de07b85cfb7cd28cd74c63d062a159" type="folder">2</container></did></c01><c01 id="aspace_ref13_maa" level="file"><did><unittitle>Bills, Receipts and Correspondence</unittitle><unitdate datechar="creation" normal="1892/1892" type="inclusive">1892</unitdate><container id="aspace_7cda3f336105b72e722f8807297c3ab7" label="Mixed Materials" type="box">1</container><container id="aspace_b430e8d611bbf23e2878f78bd90e1265" parent="aspace_7cda3f336105b72e722f8807297c3ab7" type="folder">3-15</container></did></c01><c01 id="aspace_ref14_v2o" level="file"><did><unittitle>Bills, Receipts, Correspondence, and Contracts</unittitle><unitdate datechar="creation" normal="1893/1893" type="inclusive">1893</unitdate><container id="aspace_972a9e533d5f395b168e848042bb63ca" label="Mixed Materials" type="box">1</container><container id="aspace_5750491c6a84b62c7a316e90a91ea8eb" parent="aspace_972a9e533d5f395b168e848042bb63ca" type="folder">16-18</container></did></c01><c01 id="aspace_ref15_jx2" level="file"><did><unittitle>Shipping Balance</unittitle><unitdate datechar="creation" normal="1894/1894" type="inclusive">1894</unitdate><container id="aspace_c19f631ae16c4d229c3a2aa291037c9b" label="Mixed Materials" type="box">1</container><container id="aspace_2fa3e856ddeb572badf79e4a580444bb" parent="aspace_c19f631ae16c4d229c3a2aa291037c9b" type="folder">19</container></did></c01><c01 id="aspace_ref16_eyi" level="file"><did><unittitle>Personal Bills</unittitle><unitdate datechar="creation" normal="1894/1895" type="inclusive">1894-1895</unitdate><container id="aspace_8f43c142b2c97772e75989ebcd5a8d1c" label="Mixed Materials" type="box">1</container><container id="aspace_65d454f6e7a9f8bb5e0fb30fc1079d41" parent="aspace_8f43c142b2c97772e75989ebcd5a8d1c" type="folder">20</container></did></c01></dsc>
+</archdesc>
+</ead>

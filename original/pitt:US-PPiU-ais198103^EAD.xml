@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">us-ppiu-ais198103</eadid><filedesc><titlestmt><titleproper>Guide to the Zion Lutheran Church, Brentwood, Allegheny County, Pa. Records, 1863-1981 <num>AIS.1981.03</num></titleproper><author>Archives Service Center Staff. Revisions occurred to the finding aid as a part of the encoding process on August 18, 2003.</author></titlestmt><publicationstmt><publisher>ULS Archives &amp; Special Collections</publisher><p><date>1981</date></p><address><addressline>University of Pittsburgh Library System</addressline><addressline>Archives &amp; Special Collections</addressline><addressline>Website: library.pitt.edu/archives-special-collections</addressline><addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline><addressline>URL: <extptr xlink:href="http://library.pitt.edu/archives-special-collections" xlink:show="new" xlink:title="http://library.pitt.edu/archives-special-collections" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-06-11 09:21:05 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>ULS Archives &amp; Special Collections</corpname>
+    </repository>
+    <unittitle>Zion Lutheran Church, Brentwood, Allegheny County, Pa. Records</unittitle>
+    <origination label="Creator">
+      <corpname rules="aacr" source="local">Zion Lutheran Church (Brentwood, Pa.)</corpname>
+    </origination>
+    <unitid>AIS.1981.03</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 microfilm_reel</extent>
+      <extent altrender="carrier">(478 frames)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1863/1981" type="inclusive">1863-1981</unitdate>
+    <abstract id="aspace_566c0855630785590459356d8530b6e9">The Zion Lutheran Church was founded in 1800 at White Hall (Surgeon's Hall), Pennsylvania and was relocated to Brentwood (Allegheny County), Pennsylvania in 1955. The collection contains seven volumes of combined church records and a scrapbook from 1863-1981.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <scopecontent id="aspace_4b26aba425691e035e72cafe9c49464e">
+    <head>Scope and Content Notes</head>
+<p>The Zion Lutheran Church was founded in 1800 at White Hall (Surgeon's Hall), Pennsylvania. The church was relocated to Brentwood (Allegheny County), Pennsylvania in 1955.</p><p>The collection totals seven volumes of combined church records and a scrapbook from 1863-1981. The first two volumes of church records, from 1863-1923, are in German. The church records include information regarding baptisms, confirmations, communions, marriages, burials, new members, and dismissals. The scrapbook contains photocopied histories of the church, anniversary programs, and clippings.</p>  </scopecontent>
+  <accessrestrict id="aspace_60c31b7d8e4f10f724397a57819be503">
+    <head>Access Restrictions</head>
+<p>No restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_04dd905bbc768f95e9bad090a864e594">
+    <head>Acquisition Information</head>
+<p>Microfilmed with permission by the Archives of Industrial Society in 1981.</p>  </acqinfo>
+  <originalsloc id="aspace_d9649b2baee63e5ad6222f51d04169f4">
+    <head>Existence and Location of Originals</head>
+<p>Original records are in the possession of the Zion Lutheran Church of Brentwood, Allegheny County, Pennsylvania.</p>  </originalsloc>
+  <prefercite id="aspace_d2de40896b8362dd1da0aa27c8db52ee">
+    <head>Preferred Citation</head>
+<p>Zion Lutheran Church, Brentwood, Allegheny County, Pa. Records, 1863-1981, AIS.1981.03, Archives &amp; Special Collections, University of Pittsburgh Library System</p>  </prefercite>
+  <odd id="aspace_b4c95efa1e4b104ed6f128a578cd45b3">
+    <head>Previous Citation</head>
+<p>Zion Lutheran Church, Brentwood, Allegheny County, Pa. Records, 1863-1981, AIS.1981.03, Archives Service Center, University of Pittsburgh</p><p>Zion Lutheran Church, Brentwood, Allegheny County, Pa., Records, 1863-1981, AIS Micro 81:3, Archives of Industrial Society, University Library System, University of Pittsburgh Libraries</p>  </odd>
+  <processinfo id="aspace_d2105f3a65bd5741cbe300a9477de00d">
+    <head>Processing Information</head>
+<p>This collection was processed by Archives Service Center in 1981.</p><p>Revision and rearrangement for the encoded version of the finding aid provided by Michael O'Malley on August 18, 2003. Information about the collection title and the controlled access terms was extracted from the MARC record in the University of Pittsburgh catalog Voyager ID number: 1437740</p>  </processinfo>
+  <userestrict id="aspace_cbc3e2de8d56a6a6c10b3203e0bc398a">
+    <head>Copyright</head>
+<p>Permission for publication is given on behalf of the University of Pittsburgh as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which must also be obtained.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Burial records</genreform>
+    <subject source="ulstag">Churches and Synagogues</subject>
+    <genreform source="aat">Church records</genreform>
+    <subject source="ulstag">Ethnic groups</subject>
+    <subject source="lcsh">Church buildings -- Pennsylvania -- Brentwood</subject>
+    <subject source="lcsh">German Americans -- Pennsylvania -- Brentwood</subject>
+    <subject source="lcsh">German Americans -- Religion</subject>
+    <subject source="lcsh">Lutheran Church -- Pennsylvania -- Brentwood</subject>
+    <geogname source="lcsh">Brentwood (Pa.) -- Church history</geogname>
+    <genreform source="aat">Communion records</genreform>
+    <subject source="lcsh">Baptismal records -- Pennsylvania -- Brentwood</subject>
+    <subject source="lcsh">Confirmation records -- Pennsylvania -- Brentwood</subject>
+    <genreform source="aat">Marriage records</genreform>
+    <corpname rules="aacr" source="local">Zion Lutheran Church (Brentwood, Pa.)</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref11_svk" level="series"><did><unittitle>Combined Church Record</unittitle><unitid>I.</unitid></did><c02 id="aspace_ref12_8q9" level="file"><did><unittitle>Volumes 1-2 - baptisms, confirmations, communicants, marriages, and deaths</unittitle><unitdate datechar="creation" normal="1863/1923" type="inclusive">1863-1923</unitdate><container id="aspace_9749e3a57a3722180b1f1c662d4fae48" label="Microform" type="microfilm-cabinet">2</container><container id="aspace_f34637c694f08a2b6f3a512ec078640d" parent="aspace_9749e3a57a3722180b1f1c662d4fae48" type="drawer">9</container><container id="aspace_a7d6b661d264619e4518fd4dd2ca2b70" parent="aspace_f34637c694f08a2b6f3a512ec078640d" type="reel">1</container></did></c02><c02 id="aspace_ref13_b1h" level="file"><did><unittitle>Volume 3 - baptisms, marriages, confirmations, and deaths</unittitle><unitdate datechar="creation" normal="1924/1952" type="inclusive">1924-1952</unitdate><container id="aspace_67c61f5b346a09eab5cdc8551fc82096" label="Microform" type="microfilm-cabinet">2</container><container id="aspace_7902557c0625e1572d743a0470fbb194" parent="aspace_67c61f5b346a09eab5cdc8551fc82096" type="drawer">9</container><container id="aspace_1adecd827152b293239c37d3cb059417" parent="aspace_7902557c0625e1572d743a0470fbb194" type="reel">1</container></did></c02><c02 id="aspace_ref14_41u" level="file"><did><unittitle>Volumes 4-6 - baptisms, marriages, confirmations, deaths, new members, and dismissals</unittitle><unitdate datechar="creation" normal="1950/1963" type="inclusive">1950-1963</unitdate><container id="aspace_58d279ef0c0e446e0d7fb87dcc287f36" label="Microform" type="microfilm-cabinet">2</container><container id="aspace_6a77e1cd0a438b0728c372eae834b2d5" parent="aspace_58d279ef0c0e446e0d7fb87dcc287f36" type="drawer">9</container><container id="aspace_265e485896518d36d7b8c252b1b02f77" parent="aspace_6a77e1cd0a438b0728c372eae834b2d5" type="reel">1</container></did></c02><c02 id="aspace_ref15_w3s" level="file"><did><unittitle>Volume 7 - baptisms, confirmations, marriages and deaths</unittitle><unitdate datechar="creation" normal="1963/1981" type="inclusive">1963-1981</unitdate><container id="aspace_fdf8cab30f7783c830e1be4f776fed76" label="Microform" type="microfilm-cabinet">2</container><container id="aspace_f7f23b503fff5cf05137224d4f66b89d" parent="aspace_fdf8cab30f7783c830e1be4f776fed76" type="drawer">9</container><container id="aspace_c1f148f346713fcf8f31871a59e5c73e" parent="aspace_f7f23b503fff5cf05137224d4f66b89d" type="reel">1</container></did></c02></c01><c01 id="aspace_ref16_sm5" level="series"><did><unittitle>Scrapbook</unittitle><unitid>II.</unitid></did><c02 id="aspace_ref17_qms" level="file"><did><unittitle>Church history, anniversary programs, and clippings</unittitle><container id="aspace_5003e6b7a387d32d373ab66ff2874f53" label="Microform" type="microfilm-cabinet">2</container><container id="aspace_69ec6322cc1ed296611d55d088c4467a" parent="aspace_5003e6b7a387d32d373ab66ff2874f53" type="drawer">9</container><container id="aspace_ad6f05b629d7363c6c162f5511e5d66c" parent="aspace_69ec6322cc1ed296611d55d088c4467a" type="reel">1</container></did></c02></c01></dsc>
+</archdesc>
+</ead>

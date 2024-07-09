@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">us-ppiu-ais199105</eadid><filedesc><titlestmt><titleproper>Guide to the George H. Love Interviews, September-October 1988 <num>AIS.1991.05</num></titleproper><author>Archives Service Center staff.</author></titlestmt><publicationstmt><publisher>ULS Archives &amp; Special Collections</publisher><p><date>March 2011</date></p><address><addressline>University of Pittsburgh Library System</addressline><addressline>Archives &amp; Special Collections</addressline><addressline>Website: library.pitt.edu/archives-special-collections</addressline><addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline><addressline>URL: <extptr xlink:href="http://library.pitt.edu/archives-special-collections" xlink:show="new" xlink:title="http://library.pitt.edu/archives-special-collections" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p>Interview transcript digitized and released online 12.19.2014</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-06-11 09:40:19 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>ULS Archives &amp; Special Collections</corpname>
+    </repository>
+    <unittitle>George H. Love Interviews</unittitle>
+    <origination label="Creator">
+      <persname role="ive" source="naf">Love, George H.</persname>
+    </origination>
+    <origination label="Creator">
+      <persname role="ivr" source="naf">Amatucci, Frances M.</persname>
+    </origination>
+    <origination label="Creator">
+      <corpname source="naf">University of Pittsburgh. Press</corpname>
+    </origination>
+    <unitid>AIS.1991.05</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.31 Linear Feet</extent>
+      <extent altrender="carrier">(plus 12 audio cassettes)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1988/1988" type="inclusive">September-October 1988</unitdate>
+    <abstract id="aspace_868ec735f7c916bdf03615981ea79256">Mr. George H. Love was interviewed eleven times between September 19 and October 24, 1988 at the request of Wesley W. Posvar, Chancellor of the University of Pittsburgh, in recognition of Love's contribution to American business. The collection contains a complete transcript of the interviews and 12 cassette tapes (19 hrs 46 mins). A digital reproduction of the transcript is available online.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <scopecontent id="aspace_94805b8b0993259e47597a60d03fa7a9">
+    <head>Scope and Content Notes</head>
+<p>Eleven interviews were conducted in George Love's home in Pittsburgh between September 19 and October 24, 1988, by Frances M. Amatucci at the request of Wesley W. Posvar, Chancellor of the University of Pittsburgh, in recognition of Love's contribution to American business. At the time, Ms. Amatucci was a doctoral candidate in strategic planning and policy at the Joseph M. Katz Graduate School of Business at the University of Pittsburgh. The 12 cassette tapes (19 hrs 46 mins) were transcribed by Christine Boyer (University of Pittsburgh Press staff) and edited by Catherine Marshall (University of Pittsburgh Press managing editor). Mr. Love, Mrs. Lois O-Connor (secretary to Mr. Love), and Ms. Amatucci reviewed and corrected the transcripts. Frederick A. Hetzel, Director of the University of Pittsburgh Press at the time, supervised the project.</p><p>The interviews are bound in a book-like binding that comprises 386 pages. It also contains an Index of Names which is meant to be a rough guide to the places in the interviews where Love mentions certain figures well known in the corporate world. The page number is generally the beginning of a passage where that person is discussed.</p>  </scopecontent>
+  <accessrestrict id="aspace_d0ccdcfdcb817aedfc1f284be43a4052">
+    <head>Access Restrictions</head>
+<p>No restrictions.</p>  </accessrestrict>
+  <bioghist id="aspace_ec8ed47940e0adbf7c40795b8abf0c09">
+    <head>Biography</head>
+<p>George Hutchinson Love was born on September 4, 1900 in Johnstown, Pa., where he spent his boyhood years. After graduation from Phillips Exeter Academy in New Hampshire (1918), Princeton University (1922) and Harvard Business School (1924), he worked for Lee-Higginson Company, an investment banking concern, as a salesman in Chicago. He went on to manage the office in St. Louis. He moved to Pittsburgh in 1926 when he entered his uncle's coal business, Union Collieries Company, as assistant to the president. He shortly became president in 1933, serving until 1943.</p><p>For some fifty years, Love was deeply involved in the coal industry. He became executive vice president and chairman of the executive committee of Consolidation Coal Company in New York in 1943. A year later, Consolidation took over Union Collieries' properties, and in 1945, it merged with Pittsburgh Coal Company to become Pittsburgh Consolidation Coal Company with Love as president. When the name was later changed to Consolidation Coal Company, Love became chairman serving in this capacity until 1972. He was the coal industry's chief negotiator with John L. Lewis and his United Mine Workers union in the 1940s and 1950s. Together they formed the National Coal Policy Conference to deal with the federal government on matters relating to the industry. </p><p>Love served as vice chairman of National Steel Corporation (1959-1961) and chairman of M.A. Hanna Company of Cleveland (1956-1961). He also served on the boards of Mellon Bank, General Electric, Union Carbide, and Chrysler. When Chrysler encountered a management crisis in the 1960s, Love was elected chairman on the board (1961-1966). He was responsible for the financial turnaround of the company and placed it once again in the black. 
+Love died at age 90 in Pittsburgh on July 25, 1991 from complications from emphysema.</p>  </bioghist>
+  <acqinfo id="aspace_3b42726de578c60f967722b32905eeec">
+    <head>Acquisition Information</head>
+<p>Gift executed by agreement dated December 6, 1989 and signed by Mrs. Lois O'Connor (Mr. Love's secretary) with power of attorney.  Received by the Archives Service Center in 1991 from the University of Pittsburgh Press.</p>  </acqinfo>
+  <odd id="aspace_6a65e1840bd1683d4cfd2a4afdb5bbaa">
+    <head>Previous Citation</head>
+<p>George H. Love Interviews, September-October 1988, AIS.1991.05, Archives Service Center, University of Pittsburgh</p>  </odd>
+  <prefercite id="aspace_8fdb2f53b445cd45fa1a163b8340ab0f">
+    <head>Preferred Citation</head>
+<p>George H. Love Interviews, September-October 1988, AIS.1991.05, Archives &amp; Special Collections, University of Pittsburgh Library System</p>  </prefercite>
+  <userestrict id="aspace_a74de1f54f248ae965dd9dcc110f43b0">
+    <head>Copyright</head>
+<p>All rights reserved. University of Pittsburgh.</p>  </userestrict>
+  <altformavail id="aspace_24a1d2742aff9eccf75262c7a9967a43">
+    <head>Existence and Location of Copies</head>
+<p>A digital reproduction of the transcript is available online.</p>  </altformavail>
+  <controlaccess>
+    <subject source="lcsh">Labor unions -- United States</subject>
+    <subject source="ulstag">Personal papers</subject>
+    <subject source="ulstag">Business and Industry</subject>
+    <genreform source="aat">Oral histories (Document genres)</genreform>
+    <genreform source="aat">Audiocassettes</genreform>
+    <genreform source="aat">Interviews</genreform>
+    <genreform source="aat">Transcripts</genreform>
+    <subject source="lcsh">Chief executive officers -- Interviews</subject>
+    <subject source="lcsh">Coal mines and mining -- Management</subject>
+    <subject source="lcsh">Coal mines and mining -- Pennsylvania</subject>
+    <subject source="lcsh">Coal mines and mining -- History</subject>
+    <subject source="lcsh">Industrial management</subject>
+    <persname source="naf">Love, George H. -- Interviews</persname>
+    <corpname source="naf">Pittsburgh Coal Company</corpname>
+    <persname source="naf">Lewis, John L. (John Llewellyn)</persname>
+    <corpname source="naf">National Coal Policy Conference (U.S.)</corpname>
+    <corpname source="naf">M.A. Hanna Company</corpname>
+    <corpname source="naf">Consolidation Coal Company</corpname>
+    <corpname source="naf">Chrysler Corporation</corpname>
+    <corpname source="naf">Bituminous Coal Operators' Association</corpname>
+    <corpname source="naf">National Steel Corporation</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref22_n1j" level="file"><did><unittitle>Transcript of Interview</unittitle><container id="aspace_55d4d8e42e701ab7751f5c85ec7827e9" label="Text" type="box">1</container><container id="aspace_feeb4a15573f493fbed18cce2fd6bbbe" parent="aspace_55d4d8e42e701ab7751f5c85ec7827e9" type="volume">1</container><dao xlink:actuate="onRequest" xlink:href="31735066257522" xlink:show="new" xlink:title="Transcript of Interview" xlink:type="simple"><daodesc><p>Transcript of Interview</p></daodesc></dao></did><c02 id="aspace_ref1_vva" level="item"><did><unittitle>Ancestors -- The Family Coal Business -- Childhood in Johnstown -- Education</unittitle><unitid>1.</unitid><unitdate datechar="creation">September 19, 1988</unitdate></did></c02><c02 id="aspace_ref2_kzh" level="item"><did><unittitle>Working at Lord and Taylor's -- Harvard Business School -- Lee-Higginson (New York, Chicago, St. Louis) -- Pittsburgh 1926</unittitle><unitid>2.</unitid><unitdate datechar="creation">September 21, 1988</unitdate></did></c02><c02 id="aspace_ref3_y3l" level="item"><did><unittitle>The Coal Industry in the 1920s -- Merger with M.A. Hanna -- Technology in the Coal Industry -- Rockefeller Merger -- Rationalization of the Coal Industry</unittitle><unitid>3.</unitid><unitdate datechar="creation">September 23, 1988</unitdate></did></c02><c02 id="aspace_ref5_2zc" level="item"><did><unittitle>Advantages of Oil and Gas -- Early Experiences in the Coal Business -- George Humphrey -- Creation of Pittsburgh Consolidation Coal -- Pricing Strategies -- Ben Fairless -- R.K. Mellon and the Rolling Rock Club -- The Pittsburgh Renaissance</unittitle><unitid>4.</unitid><unitdate datechar="creation">September 26, 1988</unitdate></did></c02><c02 id="aspace_ref6_mp7" level="item"><did><unittitle>A Horse Named Alfalfa -- John L. Lewis and the Negotiations of 1949-50 -- Directorships of Mellon Bank, GE, and Union Carbide</unittitle><unitid>5.</unitid><unitdate datechar="creation">October 3, 1988</unitdate></did></c02><c02 id="aspace_ref7_3db" level="item"><did><unittitle>Merger with Pittsburgh Coal (1945) -- Statistics from the 1946 Annual Report -- Public Pricing Policy -- Members of the Consol Board -- Wrestling with Liv Ireland</unittitle><unitid>6.</unitid><unitdate datechar="creation">October 5, 1988</unitdate></did></c02><c02 id="aspace_ref8_nuk" level="item"><did><unittitle>The Fairless Memorial Medal -- The Guffey Act -- Coal Exports in the 1960s and 1970s (the Japanese) -- Mergers with Continental Oil and DuPont -- Management Strategy -- The Chrysler Crisis (1958)</unittitle><unitid>7.</unitid><unitdate datechar="creation">October 7, 1988</unitdate></did></c02><c02 id="aspace_ref9_3x9" level="item"><did><unittitle>Building Confidence at Chrysler -- Lynn Townsend -- Management Style</unittitle><unitid>8.</unitid><unitdate datechar="creation">October 12, 1988</unitdate></did></c02><c02 id="aspace_ref10_qx6" level="item"><did><unittitle>Centralized Management (Chrysler, Iacocca, Roger Smith) -- The Turnaround at Chrysler -- The Laurel Valley Golf Club -- Bob Hope and Dolores -- Origins of AEA</unittitle><unitid>9.</unitid><unitdate datechar="creation">October 17, 1988</unitdate></did></c02><c02 id="aspace_ref11_09q" level="item"><did><unittitle>Seven Keys to Business Leadership -- The Decision-Making Process -- Comments on Today's CEOs -- Mergers and Acquisitions</unittitle><unitid>10.</unitid><unitdate datechar="creation">October 19, 1988</unitdate></did></c02><c02 id="aspace_ref12_yw1" level="item"><did><unittitle>Labor Unions (UMW, USW) -- Techniques of Negotiations -- Serving on a Board of Directors -- Social Responsibilities of Corporations -- Deregulation -- National Industrial Policy -- Eisenhower</unittitle><unitid>11.</unitid><unitdate datechar="creation">October 24, 1988</unitdate></did></c02></c01></dsc>
+</archdesc>
+</ead>

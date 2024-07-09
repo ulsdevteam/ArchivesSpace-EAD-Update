@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">us-ppiu-ais198016</eadid><filedesc><titlestmt><titleproper>Guide to the Holy Trinity Polish National Catholic Church,  New Castle, Pa. Records, 1914-1979 <num>AIS.1980.16</num></titleproper><author>Dan Horvath. Revisions occurred to the finding aid as a part of the encoding process in November, 2003.</author></titlestmt><publicationstmt><publisher>ULS Archives &amp; Special Collections</publisher><p><date>November 2003</date></p><address><addressline>University of Pittsburgh Library System</addressline><addressline>Archives &amp; Special Collections</addressline><addressline>Website: library.pitt.edu/archives-special-collections</addressline><addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline><addressline>URL: <extptr xlink:href="http://library.pitt.edu/archives-special-collections" xlink:show="new" xlink:title="http://library.pitt.edu/archives-special-collections" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-06-11 09:20:51 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>ULS Archives &amp; Special Collections</corpname>
+    </repository>
+    <unittitle>Holy Trinity Polish National Catholic Church, New Castle, Pa. Records</unittitle>
+    <origination label="Creator">
+      <corpname rules="aacr" source="local">Holy Trinity Polish National Catholic Church (New Castle, Pa.)</corpname>
+    </origination>
+    <unitid>AIS.1980.16</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 microfilm_reel</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1914/1979" type="inclusive">1914-1979</unitdate>
+    <abstract id="aspace_ff1a459c46e9c56102e74c9fb42823b7">This collection contains the records of Holy Trinity Polish National Catholic Church, New Castle, Pa., 1914-1979. It contains a combined church record book, parish board minute book, and miscellaneous newspaper clippings.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <scopecontent id="aspace_f6cb2e1446cd204674bca4aa2c9ea0aa">
+    <head>Scope and Content Notes</head>
+<p>This collection contains the records of Holy Trinity Polish National Catholic Church, New Castle, Pa., 1914-1979. Series I contains the combined church record, 1914-1979. This series includes a register, and baptism, marriage, 1st comunion, confirmation, and death records (in Polish and English). Series II contains a Parish Board Minute Book, 1916-1936 (in Polish). Series III contains miscellaneous newspaper clippings, 1964-1979, about the church and its members (in Polish and English).</p>  </scopecontent>
+  <accessrestrict id="aspace_0055229f722bb9b91deeaf6409d187cb">
+    <head>Access Restrictions</head>
+<p>No restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_c74bc7253c73e1c8d8db2d797758260d">
+    <head>Acquisition Information</head>
+<p>Originally microfilmed by Slippery Rock State College Archives in June 1979. Positive copy of microfilm made by the Archives of Industrial Society in 1980.</p>  </acqinfo>
+  <originalsloc id="aspace_d8e468415ea6f666608f2a14da08993f">
+    <head>Existence and Location of Orginals</head>
+<p>Original microfilm negative retained by Slippery Rock State College Archives.</p>  </originalsloc>
+  <prefercite id="aspace_ab255b3569aef98f18784993c62d2348">
+    <head>Preferred Citation note</head>
+<p>Holy Trinity Polish National Catholic Church, New Castle, Pa. Records, AIS.1980.16, Archives &amp; Special Collections, University of Pittsburgh Library System</p>  </prefercite>
+  <odd id="aspace_a5a36f319509e7497348c5043af7ed6a">
+    <head>Previous Citation</head>
+<p>Holy Trinity Polish National Catholic Church, New Castle, Pa. Records, AIS.1980.16, Archives Service Center, University of Pittsburgh</p><p>Holy Trinity Polish National Catholic Church, New Castle, Pa., Records, 1914-1979, AIS Micro 80:16, Archives of Industrial Society, University of Pittsburgh Libraries</p>  </odd>
+  <processinfo id="aspace_a25d45d4511699fc11da10786ec71a48">
+    <head>Processing Information</head>
+<p>This collection was processed by Dan Horvath in November 2003.</p><p>Revision and rearrangement for the encoded version of the finding aid provided by Dan Horvath in November, 2003. Information about the collection title and the controlled access terms was extracted from the MARC record in the University of Pittsburgh catalog Voyager ID number: 1430534</p>  </processinfo>
+  <userestrict id="aspace_8a27a0b9531881284c21db1e2b34823f">
+    <head>Copyright</head>
+<p>Permission for publication is given on behalf of the University of Pittsburgh as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which must also be obtained.</p>  </userestrict>
+  <controlaccess>
+    <geogname source="lcsh">New Castle (Pa.) -- Church history</geogname>
+    <genreform source="aat">Church records</genreform>
+    <subject source="lcsh">Church buildings -- Pennsylvania -- New Castle</subject>
+    <subject source="lcsh">Polish Americans -- Pennsylvania -- New Castle</subject>
+    <subject source="ulstag">Ethnic groups</subject>
+    <subject source="ulstag">Churches and Synagogues</subject>
+    <corpname rules="aacr" source="local">Holy Trinity Polish National Catholic Church (New Castle, Pa.)</corpname>
+    <corpname source="naf">Polish National Catholic Church of America</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref11_ipz" level="series"><did><unittitle>Combined Church Record</unittitle><unitid>I.</unitid></did><c02 id="aspace_ref12_lu8" level="file"><did><unittitle>Volume 1 (in Polish and English)</unittitle><unitdate datechar="creation" normal="1914/1979" type="inclusive">1914-1979</unitdate><container id="aspace_cfe89bbfd1616b1cc4814f9311624b92" label="Microform" type="microfilm-cabinet">2</container><container id="aspace_84875b93a7662a9457ada13739310ce4" parent="aspace_cfe89bbfd1616b1cc4814f9311624b92" type="drawer">9</container><container id="aspace_381afa97944967bc04c4d8b1c7effa83" parent="aspace_84875b93a7662a9457ada13739310ce4" type="reel">1</container></did></c02></c01><c01 id="aspace_ref13_e0d" level="series"><did><unittitle>Parish Board Minute Book</unittitle><unitid>II.</unitid></did><c02 id="aspace_ref14_285" level="file"><did><unittitle>Volume 1 (in Polish)</unittitle><unitdate datechar="creation" normal="1916/1936" type="inclusive">1916-1936</unitdate><container id="aspace_69abec89af6f927be7728cbd28533f66" label="Microform" type="microfilm-cabinet">2</container><container id="aspace_ccd35c5250554429433fb49549a42df7" parent="aspace_69abec89af6f927be7728cbd28533f66" type="drawer">9</container><container id="aspace_4440d111fecd8735cf4e4fdbfceb015a" parent="aspace_ccd35c5250554429433fb49549a42df7" type="reel">1</container></did></c02></c01><c01 id="aspace_ref15_22o" level="series"><did><unittitle>Miscellaneous Clippings</unittitle><unitid>III.</unitid></did><c02 id="aspace_ref16_r6l" level="file"><did><unittitle>Volume 1 (in Polish and English)</unittitle><unitdate datechar="creation" normal="1964/1979" type="inclusive">1964-1979</unitdate><container id="aspace_d9aa70961e27d712cc8cd2b9fdc20088" label="Microform" type="microfilm-cabinet">2</container><container id="aspace_7edce9da1fc0d1de4f080a392228c113" parent="aspace_d9aa70961e27d712cc8cd2b9fdc20088" type="drawer">9</container><container id="aspace_40ad55ffc6b062f5e43cb96e283da64d" parent="aspace_7edce9da1fc0d1de4f080a392228c113" type="reel">1</container></did></c02></c01></dsc>
+</archdesc>
+</ead>

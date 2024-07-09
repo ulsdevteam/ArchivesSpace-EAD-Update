@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">us-ppiu-ais198317</eadid><filedesc><titlestmt><titleproper>Guide to the Allegheny County Bicentennial Commission Records, <date>1974-1976</date> <num>AIS.1983.17</num></titleproper><author>Dan Horvath. Revisions occurred to the finding aid as a part of the encoding process on September 2, 2004.</author></titlestmt><publicationstmt><publisher>ULS Archives &amp; Special Collections</publisher><p><date>September 2, 2004</date></p><address><addressline>University of Pittsburgh Library System</addressline><addressline>Archives &amp; Special Collections</addressline><addressline>Website: library.pitt.edu/archives-special-collections</addressline><addressline>Business Number: 412-648-3232 (Thomas) | 412-648-8190 (Hillman)</addressline><addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline><addressline>URL: <extptr xlink:href="http://library.pitt.edu/archives-special-collections" xlink:show="new" xlink:title="http://library.pitt.edu/archives-special-collections" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-07-08 17:16:26 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>ULS Archives &amp; Special Collections</corpname>
+    </repository>
+    <unittitle>Allegheny County Bicentennial Commission Records</unittitle>
+    <origination label="Creator">
+      <corpname rules="aacr" source="local">Allegheny County Bicentennial Commission (Pa.)</corpname>
+    </origination>
+    <unitid>AIS.1983.17</unitid>
+    <unitid type="aspace_uri">/repositories/10/resources/407</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.25 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1974/1976" type="inclusive">1974-1976</unitdate>
+    <abstract id="aspace_b24e834c2df7332964eca3797a616b29" label="Abstract">This collection contains meeting minutes, correspondence, event planning, guides, and proposals for celebrations of the United States' 1976 bicentennial celebrations coordinated by the Allegheny County Bicentennial Commission, 1974-1976.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <scopecontent id="aspace_7969760f4a2d168b51d6e8957b7da3fd">
+    <head>Scope and Content Notes</head>
+<p>This collection contains meeting minutes, correspondence, event planning, guides, and proposals for celebrations of the 1976 United States' bicentennial celebrations coordinated by the Allegheny County Bicentennial Commission, 1974-1976. The records are arranged by subject.</p>  </scopecontent>
+  <accessrestrict id="aspace_fbf4223dd42706749d3703365feab46c">
+    <head>Access Restrictions</head>
+<p>No Restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_8eb3f389ece1a3bad132942e0a8683a0">
+    <head>Acquisition Information</head>
+<p>Gift of Martha Hunter on July 27, 1983.</p>  </acqinfo>
+  <odd id="aspace_a56ffa8eb3ca621ad1a12a27a2679378">
+    <head>Previous Citation</head>
+<p>Allegheny Bicentennial Commission Records, 1974-1976, AIS.1983.17, Archives Service Center, University of Pittsburgh</p>  </odd>
+  <prefercite id="aspace_49eb526031c7fd8c888e3c6a9434dc0b">
+    <head>Preferred Citation</head>
+<p>Allegheny Bicentennial Commission Records, 1974-1976, AIS.1983.17, Archives &amp; Special Collections, University of Pittsburgh Library System</p>  </prefercite>
+  <processinfo id="aspace_812310d969adc7fe67234c4083fc5aef">
+    <head>Processing Information </head>
+<p>This collection was processed by Dan Horvath on September 2, 2004.</p><p>Revision and rearrangement for the encoded version of the finding aid provided by <name>Dan Horvath</name> on September 2, 2004. Information about the collection title and the controlled access terms was extracted from the MARC record in the University of Pittsburgh catalog Voyager ID number: 1406938</p>  </processinfo>
+  <userestrict id="aspace_d15d2283619f96706c86ca19dcee573e">
+    <head>Copyright</head>
+<p>Permission for publication is given on behalf of the University of Pittsburgh as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which must also be obtained.</p>  </userestrict>
+  <controlaccess>
+    <geogname source="lcsh">Allegheny County (Pa.) -- Anniversaries, etc</geogname>
+    <genreform source="aat">County government records</genreform>
+    <genreform source="aat">Corporation records</genreform>
+    <subject source="ulstag">Government</subject>
+    <corpname rules="aacr" source="local">Bicentennial Planning, Inc</corpname>
+    <corpname rules="aacr" source="local">Allegheny County Bicentennial Commission (Pa.)</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref9_0ov" level="file"><did><unittitle>Allegheny Bar Association</unittitle><unitid type="aspace_uri">/repositories/10/archival_objects/57483</unitid><unitdate datechar="creation" normal="1974/1975" type="inclusive">1974-1975</unitdate><container id="aspace_37a175832a32a3a2e7066acb467caccb" label="Mixed Materials" type="box">1</container><container id="aspace_5f78f05b0dbe48edd242b1b62d58adaf" parent="aspace_37a175832a32a3a2e7066acb467caccb" type="folder">1</container></did></c01><c01 id="aspace_ref10_cpq" level="file"><did><unittitle>Book of Plays</unittitle><unitid type="aspace_uri">/repositories/10/archival_objects/57484</unitid><unitdate datechar="creation">undated</unitdate><container id="aspace_afba50c8cad1dc6b6686801f74ce9051" label="Mixed Materials" type="box">1</container><container id="aspace_3e2e2d3bf99c037a6ca95b8cc6847d74" parent="aspace_afba50c8cad1dc6b6686801f74ce9051" type="folder">2</container></did></c01><c01 id="aspace_ref11_vl3" level="file"><did><unittitle>Minutes and Speakers Materials</unittitle><unitid type="aspace_uri">/repositories/10/archival_objects/57485</unitid><unitdate datechar="creation" normal="1974/1976" type="inclusive">1974-1976</unitdate><container id="aspace_4d360d7109a7b351dd6577bf080a8271" label="Mixed Materials" type="box">1</container><container id="aspace_abcb73b7610d7877b2f8ce3f49eafc6d" parent="aspace_4d360d7109a7b351dd6577bf080a8271" type="folder">3-4</container></did></c01><c01 id="aspace_ref12_jkl" level="file"><did><unittitle>Planning Notecards</unittitle><unitid type="aspace_uri">/repositories/10/archival_objects/57486</unitid><unitdate datechar="creation">undated</unitdate><container id="aspace_97fc858237875a6cfdc8142ec57e0950" label="Mixed Materials" type="box">1</container><container id="aspace_556ea19e1d41502fb64c649177f9832c" parent="aspace_97fc858237875a6cfdc8142ec57e0950" type="folder">5</container></did></c01><c01 id="aspace_ref13_e0d" level="file"><did><unittitle>Proposals, acted upon</unittitle><unitid type="aspace_uri">/repositories/10/archival_objects/57487</unitid><unitdate datechar="creation" normal="1974/1976" type="inclusive">1974-1976</unitdate><container id="aspace_a50ebb41e3e988391c5b24f50a9ee7fc" label="Mixed Materials" type="box">1</container><container id="aspace_d737de2580d8bde4a69afb102e8948c5" parent="aspace_a50ebb41e3e988391c5b24f50a9ee7fc" type="folder">6-8</container></did></c01><c01 id="aspace_ref14_3pk" level="file"><did><unittitle>Proposals, in progress</unittitle><unitid type="aspace_uri">/repositories/10/archival_objects/57488</unitid><unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate><container id="aspace_1d6080c1ca53ba1fa0356ce1e2b92e54" label="Mixed Materials" type="box">1</container><container id="aspace_0e06ff23d5ee7b5376812ffabeb063b8" parent="aspace_1d6080c1ca53ba1fa0356ce1e2b92e54" type="folder">9</container></did></c01><c01 id="aspace_ref15_2w5" level="file"><did><unittitle>Bicentennial Planning Inc. of Southwest Pennsylvania</unittitle><unitid type="aspace_uri">/repositories/10/archival_objects/57489</unitid><unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate><container id="aspace_f20488d85d60c5aaee6ae22739a72e95" label="Mixed Materials" type="box">1</container><container id="aspace_d1e7c69b6a965fd29c4e61347520f60f" parent="aspace_f20488d85d60c5aaee6ae22739a72e95" type="folder">10</container></did></c01><c01 id="aspace_ref16_ywf" level="file"><did><unittitle>Bicentennial Planning, National</unittitle><unitid type="aspace_uri">/repositories/10/archival_objects/57490</unitid><unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate><container id="aspace_0170407198d0952fb57281de1ea45cbd" label="Mixed Materials" type="box">1</container><container id="aspace_61438adc048919ea9d035a39625eafc6" parent="aspace_0170407198d0952fb57281de1ea45cbd" type="folder">11</container></did></c01></dsc>
+</archdesc>
+</ead>

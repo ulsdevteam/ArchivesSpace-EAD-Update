@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">us-ppiu-ais197813</eadid><filedesc><titlestmt><titleproper>Guide to the Bethlehem Mines Corporation Police Dept. Records, 1926-1935 <num>AIS.1978.13</num></titleproper><author>ASC Staff. Revisions occurred to the finding aid as a part of the encoding process on June 1, 2004.</author></titlestmt><publicationstmt><publisher>ULS Archives &amp; Special Collections</publisher><p><date>1989</date></p><address><addressline>University of Pittsburgh Library System</addressline><addressline>Archives &amp; Special Collections</addressline><addressline>Website: library.pitt.edu/archives-special-collections</addressline><addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline><addressline>URL: <extptr xlink:href="http://library.pitt.edu/archives-special-collections" xlink:show="new" xlink:title="http://library.pitt.edu/archives-special-collections" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-06-11 09:20:14 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>ULS Archives &amp; Special Collections</corpname>
+    </repository>
+    <unittitle>Bethlehem Mines Corporation Police Department Records</unittitle>
+    <origination label="Creator">
+      <corpname source="naf">Bethlehem Mines Corp. Police Department</corpname>
+    </origination>
+    <unitid>AIS.1978.13</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.63 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1926/1935" type="inclusive">1926-1935</unitdate>
+    <abstract id="aspace_752baba25ad44e7722f2e0ba0cf78a15">The Records of the Bethlehem Mines Corporation Police Department, 1926-1935, include various reports of the police department of Bethlehem Mines Corporation, for the mines that the company operated in Southwestern Pennsylvania.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <scopecontent id="aspace_b2eb38041f0c1a8f913f62a5cbc7aa67">
+    <head>Scope and Content Notes</head>
+<p>The Records of the Bethlehem Mines Corporation Police Department, 1926-1935, include various reports of the police department of Bethlehem Mines Corporation, for the mines that the company operated in Southwestern Pennsylvania. These records primarily pertain to activities of the police department at mines operated under the corporation's subsidiary, the Ellsworth Collieries Company. These mines were located in Washington County, Pennsylvania. Much of the material pertains to the communities of Cokeburg, Ellsworth, and Marianna. The reports are arranged by year.</p><p>Note: Reports for 1931 are not included in this collection.</p>  </scopecontent>
+  <accessrestrict id="aspace_a1472aba71978d1666cf86a0ea2a1434">
+    <head>Access Restrictions</head>
+<p>No restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_8c6cfba1af2d92360cf866616d8d720f">
+    <head>Acquisition Information</head>
+<p>Gift of Peter Elish, June 26, 1978.</p>  </acqinfo>
+  <prefercite id="aspace_3e138571048ad2b9e27482a8337691b7">
+    <head>Preferred Citation</head>
+<p>Bethlehem Mines Corporation Police Dept. Records, 1926-1935, AIS.1978.13, Archives &amp; Special Collections, University of Pittsburgh Library System</p>  </prefercite>
+  <odd id="aspace_98d6dfec683f1195542793c8daaee1e0">
+    <head>Previous Citation</head>
+<p>Bethlehem Mines Corporation Police Dept. Records, 1926-1935, AIS.1978.13, Archives Service Center, University of Pittsburgh</p><p>Bethlehem Mines Corporation Police Dept., Records, 1926-1935, bulk 1932-1935, AIS 78:13, Archives of Industrial Society, Univerity of Pittsburgh</p>  </odd>
+  <processinfo id="aspace_d616b0530e5cda7e02dc25e1203d5913">
+    <head>Processing Information</head>
+<p>This collection was processed by ASC Staff in 1978.</p><p>Revision and rearrangement for the encoded version of the finding aid provided by Dan Horvath on June 1, 2004. Information about the collection title and the controlled access terms was extracted from the MARC record in the University of Pittsburgh catalog Voyager ID number: 1364421</p>  </processinfo>
+  <userestrict id="aspace_67a95b72c36ac920becbba48a5812ccb">
+    <head>Copyright</head>
+<p>Permission for publication is given on behalf of the University of Pittsburgh as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which must also be obtained.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Corporation records</genreform>
+    <subject source="lcsh">Mineral industries -- Pennsylvania</subject>
+    <subject source="lcsh">Mines and mineral resources -- Pennsylvania</subject>
+    <subject source="lcsh">Police, Private -- Pennsylvania</subject>
+    <subject source="ulstag">Business and Industry</subject>
+    <corpname source="naf">Bethlehem Mines Corp. Police Department</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref11_xv8" level="file"><did><unittitle>Reports</unittitle><unitdate datechar="creation" normal="1926/1926" type="inclusive">1926</unitdate><container id="aspace_911bf7752c6568c2a10866fe1104d90f" label="Mixed Materials" type="box">1</container><container id="aspace_4ee6d6268cf135c4949125cd37e5770a" parent="aspace_911bf7752c6568c2a10866fe1104d90f" type="folder">1</container></did></c01><c01 id="aspace_ref12_pa8" level="file"><did><unittitle>Reports</unittitle><unitdate datechar="creation" normal="1927/1927" type="inclusive">1927</unitdate><container id="aspace_770fc6109e99715c534e25c47da6aff4" label="Mixed Materials" type="box">1</container><container id="aspace_9e4c5d8ef2d9f8b32a8c85b1e857af21" parent="aspace_770fc6109e99715c534e25c47da6aff4" type="folder">2</container></did></c01><c01 id="aspace_ref13_rlm" level="file"><did><unittitle>Reports</unittitle><unitdate datechar="creation" normal="1928/1928" type="inclusive">1928</unitdate><container id="aspace_0f1956d61d9a51f50fd202e93c55adaa" label="Mixed Materials" type="box">1</container><container id="aspace_f87599e1641b6179eeb60ab2a6175b9b" parent="aspace_0f1956d61d9a51f50fd202e93c55adaa" type="folder">3</container></did></c01><c01 id="aspace_ref14_gye" level="file"><did><unittitle>Reports</unittitle><unitdate datechar="creation" normal="1929/1929" type="inclusive">1929</unitdate><container id="aspace_3798e045ab1bba1b771c7f8ce29afb2f" label="Mixed Materials" type="box">1</container><container id="aspace_ff163a1e5a0e74db7fc8b2d6a09047a7" parent="aspace_3798e045ab1bba1b771c7f8ce29afb2f" type="folder">4</container></did></c01><c01 id="aspace_ref15_lta" level="file"><did><unittitle>Reports</unittitle><unitdate datechar="creation" normal="1930/1930" type="inclusive">1930</unitdate><container id="aspace_5f9249c4dc4680b13601665bb5d5a075" label="Mixed Materials" type="box">1</container><container id="aspace_607b91177fa001d539f3b6ecf1bc847e" parent="aspace_5f9249c4dc4680b13601665bb5d5a075" type="folder">5</container></did></c01><c01 id="aspace_ref16_ym3" level="file"><did><unittitle>Reports</unittitle><unitdate datechar="creation" normal="1932/1932" type="inclusive">1932</unitdate><container id="aspace_6fd1a4be68efb36ae420031a1572acbf" label="Mixed Materials" type="box">1</container><container id="aspace_d67c1fe6b81fd6895c1c05b9f7166cf2" parent="aspace_6fd1a4be68efb36ae420031a1572acbf" type="folder">6</container></did></c01><c01 id="aspace_ref17_ky0" level="file"><did><unittitle>Reports</unittitle><unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate><container id="aspace_2122024862bba5ebcc3a3fc997ae8e8e" label="Mixed Materials" type="box">1</container><container id="aspace_f7235c4ef5aa35d7dd523797278eda41" parent="aspace_2122024862bba5ebcc3a3fc997ae8e8e" type="folder">7</container></did></c01><c01 id="aspace_ref18_rq7" level="file"><did><unittitle>Reports</unittitle><unitdate datechar="creation" normal="1934/1934" type="inclusive">1934</unitdate><container id="aspace_838c37e257950aee950a9b1d0b24de88" label="Mixed Materials" type="box">1</container><container id="aspace_ba9ca57d74dec82d8a335893f5f6abd3" parent="aspace_838c37e257950aee950a9b1d0b24de88" type="folder">8</container></did></c01><c01 id="aspace_ref19_qm3" level="file"><did><unittitle>Reports</unittitle><unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate><container id="aspace_d71abb82eb4c604a05a17cc646745cdb" label="Mixed Materials" type="box">1</container><container id="aspace_dc541845a21ce03d854d8f677182fdd5" parent="aspace_d71abb82eb4c604a05a17cc646745cdb" type="folder">9</container></did></c01></dsc>
+</archdesc>
+</ead>

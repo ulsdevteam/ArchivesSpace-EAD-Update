@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">us-ppiu-ais198224</eadid><filedesc><titlestmt><titleproper>Guide to the Allegheny County Committee 1960 White House Conference on Children and Youth Subcommittee on Education Records, 1959-1962 <num>AIS.1982.24</num></titleproper><author>Archives Service Center staff. Revisions occurred to the finding aid as a part of the encoding process on December 12, 2002.</author></titlestmt><publicationstmt><publisher>ULS Archives &amp; Special Collections</publisher><p><date>1982</date></p><address><addressline>University of Pittsburgh Library System</addressline><addressline>Archives &amp; Special Collections</addressline><addressline>Website: library.pitt.edu/archives-special-collections</addressline><addressline>Business Number: 412-648-3232 (Thomas) | 412-648-8190 (Hillman)</addressline><addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline><addressline>URL: <extptr xlink:href="http://library.pitt.edu/archives-special-collections" xlink:show="new" xlink:title="http://library.pitt.edu/archives-special-collections" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-07-08 17:16:20 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>ULS Archives &amp; Special Collections</corpname>
+    </repository>
+    <unittitle>Allegheny County Committee 1960 White House Conference on Children and Youth Subcommittee on Education Records</unittitle>
+    <origination label="Creator">
+      <corpname rules="aacr" source="local">Allegheny County Committee 1960 White House Conference on Children and Youth. Subcommittee on Education</corpname>
+    </origination>
+    <unitid>AIS.1982.24</unitid>
+    <unitid type="aspace_uri">/repositories/10/resources/461</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.35 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1959/1962" type="inclusive">1959-1962</unitdate>
+    <abstract id="aspace_3a3d5078db7a868acb7aef16d1edd825" label="Abstract">The call for the sixth White House Conference on Children and Youth (1960) was issued by President Dwight D. Eisenhower on May 27, 1958. On June 26, 1959, Governor David L. Lawrence appointed a State Coordinating Committee to be responsible for the White House Conference preparations in Pennsylvania. This collection includes agendas, announcements, correspondence, invitations, membership lists, memoranda, minutes and reports.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <scopecontent id="aspace_0524e737f5bb8412e2909767b3ba246c">
+    <head>Scope and Content Notes</head>
+<p>The call for the sixth White House Conference on Children and Youth (1960) was issued by President Dwight D. Eisenhower on May 27, 1958. On June 26, 1959, Governor David L. Lawrence appointed a State Coordinating Committee to be responsible for the White House Conference preparations in Pennsylvania.</p><p>Members of the Governor's coordinating committee from Allegheny County served as a steering committee for Allegheny County and invited about 300 local leaders to participate in the preparation of the Allegheny County report. Nine subcommittee chairmen were appointed primarily for editing, public relations and interpretation. The areas selected for exploration were: family life, substitute family care, delinquency education, mental health and youth employment. Professional consultants (secretaries) were also appointed to each subcommittee.</p><p>The records of the Subcommittee on Education were deposited in the Archives in 1982 by Mrs. Sylvan Libson, Chairman. This collection includes agendas, announcements, correspondence, invitations, membership lists, memoranda, minutes and reports from 1959-1962. The correspondence reflects the organization of the Subcommittee on Education and the development of its recommendations. </p>  </scopecontent>
+  <accessrestrict id="aspace_a85501e092f93a8ea5efdca18ebaca2e">
+    <head>Access Restrictions</head>
+<p>No restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_341af2dd9f3c727a08481928e32f1528">
+    <head>Acquisition Information</head>
+<p>Donated by Mrs. Sylvan Libson in 1982.</p>  </acqinfo>
+  <prefercite id="aspace_28776d2568723f032c3dc090d0b5862d">
+    <head>Preferred Citation</head>
+<p>Allegheny County Committee 1960 White House Conference on Children and Youth Subcommittee on Education Records, 1959-1962, AIS.1982.24,Archives &amp; Special Collections, University of Pittsburgh Library System</p>  </prefercite>
+  <odd id="aspace_d7fa0416a4ffa8bd0d8a63c906bba6eb">
+    <head>Previous Citation</head>
+<p>Allegheny County Committee 1960 White House Conference on Children and Youth Subcommittee on Education Records, 1959-1962, AIS.1982.24, Archives Service Center, University of Pittsburgh</p><p>Allegheny County Committee 1960 White House Conference on Children and Youth. Sub-committee on Education. Records, 1959-1962, AIS 82:24, Archives of Industrial Society, University Library System, University of Pittsburgh</p>  </odd>
+  <processinfo id="aspace_c7e38d073de21a591624f360c1c4569d">
+    <head>Processing Information</head>
+<p>This collection was processed by Archives Service Center staff in 1982.</p><p>Revision and rearrangement for the encoded version of the finding aid provided by Michael O'Malley on December 12, 2002. Information about the collection title and the controlled access terms was extracted from the MARC record in the University of Pittsburgh catalog Voyager ID number: 142174.</p>  </processinfo>
+  <userestrict id="aspace_69d8c342060e1ddd49f03d125814d2f8">
+    <head>Copyright</head>
+<p>Permission for publication is given on behalf of the University of Pittsburgh as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which must also be obtained.</p>  </userestrict>
+  <controlaccess>
+    <subject source="ulstag">Education</subject>
+    <subject source="lcsh">Youth -- Pennsylvania -- Allegheny County -- Congresses</subject>
+    <subject source="lcsh">Children -- Pennsylvania -- Allegheny County -- Congresses</subject>
+    <subject source="lcsh">Child welfare -- Pennsylvania -- Allegheny County -- Congresses</subject>
+    <subject source="ulstag">Social action</subject>
+    <subject source="ulstag">Government</subject>
+    <corpname rules="aacr" source="local">Allegheny County Committee 1960 White House Conference on Children and Youth. Subcommittee on Education</corpname>
+    <corpname source="naf">White House Conference on Children and Youth (1960 : Washington, D.C.)</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref10_lbr" level="series"><did><unittitle>Subcommittee on Education</unittitle><unitid>I.</unitid><unitid type="aspace_uri">/repositories/10/archival_objects/60066</unitid></did><c02 id="aspace_ref12_ij8" level="file"><did><unittitle>Correspondence</unittitle><unitid type="aspace_uri">/repositories/10/archival_objects/60067</unitid><unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate><container id="aspace_050296cdd075adb33e1278e7c24d5a35" label="Mixed Materials" type="box">1</container><container id="aspace_c4f08207dd31a338289f40ccc6fabc1e" parent="aspace_050296cdd075adb33e1278e7c24d5a35" type="folder">1</container></did></c02><c02 id="aspace_ref13_3hx" level="file"><did><unittitle>Subject files (report and lecture outline)</unittitle><unitid type="aspace_uri">/repositories/10/archival_objects/60068</unitid><unitdate datechar="creation" normal="1950/1959" type="inclusive">1950, 1959</unitdate><container id="aspace_55a098b5d5d4dad6dd94be2c5ff9619e" label="Mixed Materials" type="box">1</container><container id="aspace_62244423d423aec4e888a648f8a13480" parent="aspace_55a098b5d5d4dad6dd94be2c5ff9619e" type="folder">2</container></did></c02></c01><c01 id="aspace_ref14_ky0" level="series"><did><unittitle>Allegheny County Committee 1960 White House Conference on Children and Youth</unittitle><unitid>II.</unitid><unitid type="aspace_uri">/repositories/10/archival_objects/60069</unitid></did><c02 id="aspace_ref15_mxn" level="file"><did><unittitle>Membership lists</unittitle><unitid type="aspace_uri">/repositories/10/archival_objects/60070</unitid><unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate><container id="aspace_09a36e91df33a104de8c09238648142c" label="Mixed Materials" type="box">1</container><container id="aspace_f66c14aca6a30b5e15ce8f87925e181e" parent="aspace_09a36e91df33a104de8c09238648142c" type="folder">3</container></did></c02><c02 id="aspace_ref16_y6e" level="file"><did><unittitle>Luncheon meeting</unittitle><unitid type="aspace_uri">/repositories/10/archival_objects/60071</unitid><unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate><container id="aspace_8ac003d5e46c89558f137af5a859f282" label="Mixed Materials" type="box">1</container><container id="aspace_44b8bcc674358090d746652787b9f3f7" parent="aspace_8ac003d5e46c89558f137af5a859f282" type="folder">4</container></did></c02><c02 id="aspace_ref17_9xz" level="file"><did><unittitle>Report</unittitle><unitid type="aspace_uri">/repositories/10/archival_objects/60072</unitid><unitdate datechar="creation">October 1959</unitdate><container id="aspace_63940e6abaa81a56d04142d7a13ad86e" label="Mixed Materials" type="box">1</container><container id="aspace_021cf6047026a5584a3b41efeda9080e" parent="aspace_63940e6abaa81a56d04142d7a13ad86e" type="folder">5</container></did></c02></c01><c01 id="aspace_ref18_w1f" level="series"><did><unittitle>Allegheny County After-Conference Committee 1960 White House Conference on Children and Youth</unittitle><unitid>III.</unitid><unitid type="aspace_uri">/repositories/10/archival_objects/60073</unitid></did><c02 id="aspace_ref19_8xm" level="file"><did><unittitle>Correspondence, memoranda and minutes</unittitle><unitid type="aspace_uri">/repositories/10/archival_objects/60074</unitid><unitdate datechar="creation">1961-1962 (intermittent)</unitdate><container id="aspace_062bda5b0985c66418f9cc8eac9d0d52" label="Mixed Materials" type="box">1</container><container id="aspace_0c64b763bb9a341325e1a71c4d947393" parent="aspace_062bda5b0985c66418f9cc8eac9d0d52" type="folder">6</container></did></c02></c01></dsc>
+</archdesc>
+</ead>

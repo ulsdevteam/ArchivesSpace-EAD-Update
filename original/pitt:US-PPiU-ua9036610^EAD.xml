@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">us-ppiu-ua9036610</eadid><filedesc><titlestmt><titleproper>Guide to the Department of Physiology, Office Files, University of Pittsburgh, 1961-1982 <num>UA.90.36.6.10</num></titleproper><author>Zachary Brodt.</author></titlestmt><publicationstmt><publisher>ULS Archives &amp; Special Collections</publisher><p><date>June 2018</date></p><address><addressline>University of Pittsburgh Library System</addressline><addressline>Archives &amp; Special Collections</addressline><addressline>Website: library.pitt.edu/archives-special-collections</addressline><addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline><addressline>URL: <extptr xlink:href="http://library.pitt.edu/archives-special-collections" xlink:show="new" xlink:title="http://library.pitt.edu/archives-special-collections" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-06-11 10:06:02 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>ULS Archives &amp; Special Collections</corpname>
+    </repository>
+    <unittitle>Department of Physiology, Office Files, University of Pittsburgh</unittitle>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">University of Pittsburgh. Department of Physiology</corpname>
+    </origination>
+    <unitid>UA.90.36.6.10</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+      <extent altrender="carrier">(one box and one oversize drawing)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1961/1982" type="inclusive">1961-1982</unitdate>
+    <abstract id="aspace_13be163c4e034df65c3bdc4feb5b1e59">This collection contains University of Pittsburgh Department of Physiology staff meeting minutes from 1961 to 1981 and documents the development of the program while it was led by Dr. Ernst Knobil.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <acqinfo id="aspace_3cd1641bf624162b3d966193045a4d00">
+    <head>Acquisition Information</head>
+<p>Gift of Julane Knobil to the Health Sciences Library. Transferred to the University Archives on March 14, 2016.</p>  </acqinfo>
+  <scopecontent id="aspace_9a13e5bafc3314cc54923c0ad59a25cd">
+    <head>Scope and Content Notes</head>
+<p>This collection of Physiology Department staff meeting minutes and photographs belonged to the R.B. Mellon Chair of Physiology, Dr. Ernst Knobil. Spanning from 1961 to 1981, his entire time as the founding chair, these minutes and articles from university publications document the progress of the department as it developed into one of the nation's best physiology programs.</p>  </scopecontent>
+  <processinfo id="aspace_c5d232f2634c7009b09bb2797fb03b59">
+    <head>Processing Information</head>
+<p>This collection was processed by Zach Brodt in 2016.</p>  </processinfo>
+  <prefercite id="aspace_f897bf763d855e6c7e932d130936fd27">
+    <head>Preferred Citation</head>
+<p>Department of Physiology, Office Files, University of Pittsburgh, 1961-1982, UA.90.36.6.10, University Archives, Archives &amp; Special Collections, University of Pittsburgh Library System</p>  </prefercite>
+  <accessrestrict id="aspace_58a22d2697be5f6df52d1128569cadc8">
+    <head>Access Restrictions</head>
+<p>No restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_23c4b26330d1f65aab7f171e01b72e47">
+    <head>Copyright</head>
+<p>All rights reserved. University of Pittsburgh.</p>  </userestrict>
+  <bioghist id="aspace_092cbfa9b0de13790137c3161c4f0e37">
+    <head>Biography</head>
+<p>In 1961, Dean Francis Cheever hired Dr. Ernst Knobil to lead the newly established Physiology Department, which was to be separated from the Pharmacology Department. Dr. Knobil left Harvard to become the first Richard Beatty Mellon endowed chair of physiology at the University of Pittsburgh. He developed the department from scratch using a grant of more than one million dollars from the R.K. Mellon Foundation and focused the department's research on his area of study, endocrine physiology, to distinguish it from other programs over the course of twenty years. Dr. Knobil left the University of Pittsburgh in 1981 to become Dean of the University of Texas Medical School in Houston.</p>  </bioghist>
+  <controlaccess>
+    <subject source="lcsh">Universities and colleges -- Pennsylvania -- Pittsburgh</subject>
+    <subject source="ulstag">University of Pittsburgh</subject>
+    <corpname rules="dacs" source="local">University of Pittsburgh. Department of Physiology</corpname>
+    <persname rules="dacs" source="local">Knobil, Ernst</persname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref1_vva" level="file"><did><unittitle>Department Staff Photographs</unittitle><unitdate datechar="creation" normal="1962/1982" type="inclusive">1962-1982</unitdate><container id="aspace_553e4ec089574bb8b04bbe1471ac4459" label="Mixed Materials" type="box">1</container><container id="aspace_d44cfaee84f6782b585aedd83ac6cac9" parent="aspace_553e4ec089574bb8b04bbe1471ac4459" type="folder">1</container></did></c01><c01 id="aspace_ref2_d8y" level="file"><did><unittitle>Staff Meeting Minutes</unittitle><unitdate datechar="creation" normal="1966/1967" type="inclusive">1966-1967</unitdate><container id="aspace_fec751f249e671a5daadbd1644678a61" label="Mixed Materials" type="box">1</container><container id="aspace_92d6e29a724d57fc75107b085c730b1c" parent="aspace_fec751f249e671a5daadbd1644678a61" type="folder">2</container></did></c01><c01 id="aspace_ref3_3z1" level="file"><did><unittitle>Staff Meeting Minutes</unittitle><unitdate datechar="creation" normal="1968/1969" type="inclusive">1968-1969</unitdate><container id="aspace_f169ad39445c49a594d33ed1bb7f36e1" label="Mixed Materials" type="box">1</container><container id="aspace_96c5c1a9023e4a75dd01934910a18d9c" parent="aspace_f169ad39445c49a594d33ed1bb7f36e1" type="folder">3</container></did></c01><c01 id="aspace_ref4_yzc" level="file"><did><unittitle>Staff Meeting Minutes</unittitle><unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate><container id="aspace_b23e42b061d188f412efe4a06b9aa864" label="Mixed Materials" type="box">1</container><container id="aspace_dfbb1e61ab89d740baf0bd691a7e64c1" parent="aspace_b23e42b061d188f412efe4a06b9aa864" type="folder">4</container></did></c01><c01 id="aspace_ref5_r3c" level="file"><did><unittitle>Staff Meeting Minutes</unittitle><unitdate datechar="creation" normal="1971/1972" type="inclusive">1971-1972</unitdate><container id="aspace_cfcc0c98a21c5463a80743e3ff80701c" label="Mixed Materials" type="box">1</container><container id="aspace_09e5bd8091d6102a42e0079d7f85bc71" parent="aspace_cfcc0c98a21c5463a80743e3ff80701c" type="folder">5</container></did></c01><c01 id="aspace_ref6_djx" level="file"><did><unittitle>Staff Meeting Minutes</unittitle><unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate><container id="aspace_17bdfe76a60939353b2e412686ffed75" label="Mixed Materials" type="box">1</container><container id="aspace_82059e7dcdc2d5f4106a8347acd7da47" parent="aspace_17bdfe76a60939353b2e412686ffed75" type="folder">6</container></did></c01><c01 id="aspace_ref7_0ll" level="file"><did><unittitle>Staff Meeting Minutes</unittitle><unitdate datechar="creation" normal="1974/1975" type="inclusive">1974-1975</unitdate><container id="aspace_03bc2669c5235fc48bf6c06aa8a54d52" label="Mixed Materials" type="box">1</container><container id="aspace_0e901523b97785cf62ac843d4b06529e" parent="aspace_03bc2669c5235fc48bf6c06aa8a54d52" type="folder">7</container></did></c01><c01 id="aspace_ref8_obz" level="file"><did><unittitle>Staff Meeting Minutes</unittitle><unitdate datechar="creation" normal="1976/1978" type="inclusive">1976-1978</unitdate><container id="aspace_51e575b09d910247f81d942c9b054e3e" label="Mixed Materials" type="box">1</container><container id="aspace_802db1dafc0bce8be9b6c33cbfc3912e" parent="aspace_51e575b09d910247f81d942c9b054e3e" type="folder">8</container></did></c01><c01 id="aspace_ref9_lhh" level="file"><did><unittitle>Staff Meeting Minutes</unittitle><unitdate datechar="creation" normal="1979/1982" type="inclusive">1979-1982</unitdate><container id="aspace_0e28860762a2646e4a477384abc725d1" label="Mixed Materials" type="box">1</container><container id="aspace_598d03eecf4b55edbb6abe6f4fccb677" parent="aspace_0e28860762a2646e4a477384abc725d1" type="folder">9</container></did></c01><c01 id="aspace_ref10_cuh" level="file"><did><unittitle>Dr. Ernst Knobil Articles in University Publications</unittitle><container id="aspace_a760b578a29ee06ba64b892da8307ffe" label="Mixed Materials" type="box">1</container><container id="aspace_593f2e454ace96ddda7fb8944c7c772e" parent="aspace_a760b578a29ee06ba64b892da8307ffe" type="folder">10</container></did></c01><c01 id="aspace_ref11_w38" level="file"><did><unittitle>Colloquia and News Clippings</unittitle><unitdate datechar="creation" normal="1961/1968" type="inclusive">1961-1968</unitdate><container id="aspace_1e3fd48a6f73222aa76658bafb1eb099" label="Mixed Materials" type="box">1</container><container id="aspace_a129f652802907927ffbe2d3f8dd2715" parent="aspace_1e3fd48a6f73222aa76658bafb1eb099" type="folder">11</container></did></c01><c01 id="aspace_ref12_sj3" level="file"><did><unittitle>Drawing: Proposed Plum Borough Facility, University of Pittsburgh School of Medicine</unittitle><container id="aspace_47ffc3228b7a2cf888cc696f2068b8c8" label="Graphic Materials" type="oversize">1</container></did></c01></dsc>
+</archdesc>
+</ead>

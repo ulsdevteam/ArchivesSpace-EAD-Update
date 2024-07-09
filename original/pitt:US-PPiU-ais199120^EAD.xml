@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">us-ppiu-ais199120</eadid><filedesc><titlestmt><titleproper>Guide to the Semple Street Food Co-op, Pittsburgh, Pa. Records,  1972-1985  <num>AIS.1991.20</num></titleproper><author>Matt Novak.</author></titlestmt><publicationstmt><publisher>ULS Archives &amp; Special Collections</publisher><p><date>August 2006</date></p><address><addressline>University of Pittsburgh Library System</addressline><addressline>Archives &amp; Special Collections</addressline><addressline>Website: library.pitt.edu/archives-special-collections</addressline><addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline><addressline>URL: <extptr xlink:href="http://library.pitt.edu/archives-special-collections" xlink:show="new" xlink:title="http://library.pitt.edu/archives-special-collections" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-06-11 09:22:51 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>ULS Archives &amp; Special Collections</corpname>
+    </repository>
+    <unittitle>Semple Street Food Co-op, Pittsburgh, Pa. Records</unittitle>
+    <origination label="Creator">
+      <corpname rules="aacr" source="local">Semple Street Food Co-op (Pittsburgh, Pa.)</corpname>
+    </origination>
+    <unitid>AIS.1991.20</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.25 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1972/1985" type="inclusive">1972-1985</unitdate>
+    <abstract id="aspace_fd7d298c8e949191fde36b00472ba9a4">The Semple Street Food Cooperative Association was one of many cooperatively owned and managed natural food stores established in the United States during the 1960s and 1970s. Incorporated in 1972, it set up operations in the Oakland neighborhood of Pittsburgh at 3459 Ward St. (the corner of Ward and Semple). Records of the Semple Street Food Cooperative, Inc. include articles of incorporation, board meeting minutes, bylaws, policies, financial records, member correspondence, and community bulletin board ephemera.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <bioghist id="aspace_87ff91c5e8100f66d45632e2dea74ffa">
+    <head>History</head>
+<p>The Semple Street Food Cooperative Association was one of many cooperatively owned and managed food stores established in the United States during the 1960s and 1970s. Building on principles established by a consumer-owned store established in Rochdale, England in 1844, these new American cooperatives helped establish the natural foods industry. The Semple Street Co-op was incorporated in 1972 under the District of Columbia Food Cooperative Association Act, and set up operations in Pittsburgh at 3459 Ward St. (corner of Ward and Semple), in an Oakland storefront that had formerly been Reiser's Drug Store. During its 12 years of operation, the Co-op's membership regularly elected a Board of Directors, and dues were paid monthly, either in cash, or volunteer work hours. By assuming part ownership in the business, members were able to order food and household necessities in bulk, and consume them at or near wholesale prices. When the Cooperative disintegrated in 1985, remaining personnel and equipment were transferred to Pittsburgh's East End Food Co-op.</p>  </bioghist>
+  <scopecontent id="aspace_4ff25eb9b1c5b4a03fba37d314f8c245">
+    <head>Scope and Content Notes</head>
+<p>Records of the Semple Street Food Cooperative, Inc. include articles of incorporation, board meeting minutes, bylaws, policies, financial records, member correspondence, and community bulletin board ephemera. The bulk of the records are financial in nature.</p><p>"Policy and Management" contains Board meeting minutes, employee policies and ballots. The "Federation of Ohio River Cooperatives" (FORC) is a wholesale supplier and regional cooperative organizer, based in Columbus, Ohio. The FORC newsletter includes price listings illustrating the types of items that would have been in stock at the co-op. "Community Relations and Donations" documents more proactive relationships that the Cooperative maintained with civic, cultural, and charity organizations in the Pittsburgh region, including evidence of a youth internship program. "Supplier Invoices" include a list of retail magazine subscriptions and community advertising, and legal and accounting fees.</p>  </scopecontent>
+  <accessrestrict id="aspace_b9c8d34e63410ba3e1e8df0c22166a4b">
+    <head>Access Restrictions</head>
+<p>No restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_dbb01b314be5401cc4a88bd1d9da6bcd">
+    <head>Acquisition Information</head>
+<p>Gift of Robert Opie Shepherd in 1991.</p>  </acqinfo>
+  <prefercite id="aspace_18d344d90da00e6fd839720ffce06be1">
+    <head>Preferred Citation </head>
+<p>Semple Street Food Co-op, Pittsburgh, Pa. Records, 1972-1985, AIS.1991.20, Archives &amp; Special Collections, University of Pittsburgh Library System</p>  </prefercite>
+  <odd id="aspace_d6198633de25e79130ae5180bb89e8ec">
+    <head>Previous Citation</head>
+<p>Semple Street Food Co-op, Pittsburgh, Pa. Records, 1972-1985, AIS.1991.20, Archives Service Center, University of Pittsburgh </p><p>Records of Cooperatives in Pittsburgh, ais 91:20, Archives Service Center, University of Pittsburgh</p>  </odd>
+  <processinfo id="aspace_1d08937d20b38ae1e4e4386b3790ec4b">
+    <head>Processing Information</head>
+<p>This collection was processed by Matt Novak in January 2005.</p>  </processinfo>
+  <userestrict id="aspace_80f78cf89653577b4169c6b70520c853">
+    <head>Copyright</head>
+<p>Permission for publication is given on behalf of the University of Pittsburgh as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which must also be obtained.</p>  </userestrict>
+  <relatedmaterial id="aspace_3e36a634133e41aa6984337a2186eedb">
+    <head>Related Material </head>
+<p>Records of the East End Food Co-op, Pittsburgh, Pa., 1987-1996, AIS.1997.42, Archives Service Center, University of Pittsburgh</p>  </relatedmaterial>
+  <separatedmaterial id="aspace_dc41a3ca44208243d8fedcf13384f187">
+    <head>Separated Material </head>
+<p>Some records of this collection relating to the East End Co-op were transferred to Records of the East End Food Co-op, Pittsburgh, PA, 1987-1996, AIS.1997.42.</p>  </separatedmaterial>
+  <controlaccess>
+    <subject source="lcsh">Food industry and trade -- Pennsylvania -- Pittsburgh</subject>
+    <subject source="ulstag">Associations</subject>
+    <subject source="lcsh">Food cooperatives -- Pennsylania -- Pittsburgh</subject>
+    <subject source="lcsh">Cooperative societies -- Pennsylvania -- Pittsburgh</subject>
+    <geogname source="lcsh">Pittsburgh (Pa.)</geogname>
+    <corpname rules="aacr" source="local">East End Food Co-op (Pittsburgh, Pa.)</corpname>
+    <corpname rules="aacr" source="local">Semple Street Food Co-op (Pittsburgh, Pa.)</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref13_p5p" level="file"><did><unittitle>Articles of Incorporation and Bylaws</unittitle><unitdate datechar="creation">1974-82</unitdate><container id="aspace_ff79d7c7d02c09faaeeb93370d497a32" label="Mixed Materials" type="box">1</container><container id="aspace_023316f04a5d343edb417fc3c91c375d" parent="aspace_ff79d7c7d02c09faaeeb93370d497a32" type="folder">1</container></did></c01><c01 id="aspace_ref14_22j" level="file"><did><unittitle>Semple Street Cooperative Association Corporate Seal and Stamp</unittitle><unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate><container id="aspace_fe4a862fe5a84287f8347d13bbb90f5f" label="Mixed Materials" type="box">1</container><container id="aspace_3e10b91a1456faf480cfe1ca76b4e7ff" parent="aspace_fe4a862fe5a84287f8347d13bbb90f5f" type="folder">2</container></did></c01><c01 id="aspace_ref15_lp6" level="file"><did><unittitle>Policy and Management</unittitle><unitdate datechar="creation">1981 and undated</unitdate><container id="aspace_f26f53a61c3cb5c8c911d89d24a203db" label="Mixed Materials" type="box">1</container><container id="aspace_e3db39f16dc989546ebbfc79603fb042" parent="aspace_f26f53a61c3cb5c8c911d89d24a203db" type="folder">3</container></did></c01><c01 id="aspace_ref16_lfq" level="file"><did><unittitle>Federation of Ohio River Cooperatives (FORC) Newsletter, Vol. 1, No. 10</unittitle><unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate><container id="aspace_73c9e4d5eb46588c6bf2cccb5176b2f7" label="Mixed Materials" type="box">1</container><container id="aspace_6ac6e5cd4560648db17f8b51d7c9231f" parent="aspace_73c9e4d5eb46588c6bf2cccb5176b2f7" type="folder">4</container></did></c01><c01 id="aspace_ref17_vtq" level="file"><did><unittitle>Flyers and Broadsheets</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_89ac757c22c219e39180d6435a1536c1" label="Mixed Materials" type="box">1</container><container id="aspace_3463e8f1b8baf6442ac39a455d837a17" parent="aspace_89ac757c22c219e39180d6435a1536c1" type="folder">5</container></did></c01><c01 id="aspace_ref18_i3o" level="file"><did><unittitle>Community Relations and Donations</unittitle><unitdate datechar="creation">1978-83</unitdate><container id="aspace_81c40edc7aa4f10683bd2d4ed7a5eae2" label="Mixed Materials" type="box">1</container><container id="aspace_6b41f6a7da9c7f32de1296f2f17aeece" parent="aspace_81c40edc7aa4f10683bd2d4ed7a5eae2" type="folder">6</container></did></c01><c01 id="aspace_ref19_9as" level="file"><did><unittitle>Supplier Invoices</unittitle><unitdate datechar="creation">1984-85</unitdate><container id="aspace_d20b06d77e332e381a5a28cd78e22a71" label="Mixed Materials" type="box">1</container><container id="aspace_7b662776f34f0bccf77db3ba701b0a57" parent="aspace_d20b06d77e332e381a5a28cd78e22a71" type="folder">7</container></did></c01><c01 id="aspace_ref20_igg" level="file"><did><unittitle>Sales Charts</unittitle><unitdate datechar="creation">1973-78</unitdate><container id="aspace_acaab816ef532e25f8d65e3f57c0342d" label="Mixed Materials" type="box">1</container><container id="aspace_293b1b0c4abd248dc9a9c049874013aa" parent="aspace_acaab816ef532e25f8d65e3f57c0342d" type="folder">8</container></did></c01><c01 id="aspace_ref21_c7b" level="file"><did><unittitle>Financial Records</unittitle><unitdate datechar="creation" normal="1972/1984" type="inclusive">1972-1984</unitdate><container id="aspace_4a8d9383e1d62112cc162a377e3fc15d" label="Mixed Materials" type="box">1</container><container id="aspace_a9adfff756e91380f5ff157cca873dca" parent="aspace_4a8d9383e1d62112cc162a377e3fc15d" type="folder">9-20</container></did></c01><c01 id="aspace_ref22_6t4" level="file"><did><unittitle>Disbursements and receipts</unittitle><unitdate datechar="creation" normal="1981/1985" type="inclusive">1981-1985</unitdate><container id="aspace_8cf426ba37a8015e6f424d1405d9dc1c" label="Mixed Materials" type="box">1</container><container id="aspace_bc2f585907653c9a0588d8725a9dce76" parent="aspace_8cf426ba37a8015e6f424d1405d9dc1c" type="folder">21-25</container></did></c01></dsc>
+</archdesc>
+</ead>

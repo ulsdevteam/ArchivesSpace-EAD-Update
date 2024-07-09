@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">us-ppiu-ais197425</eadid><filedesc><titlestmt><titleproper>Guide to the Smithfield Congregational Church, Pittsburgh, Pa. Records, 1832-1971 <num>AIS.1974.25</num></titleproper><author>Archives Service Center staff.  Revised by Katie Kirwan in April 1981. Revisions occurred to the finding aid as a part of the encoding process on May 13, 2003.</author></titlestmt><publicationstmt><publisher>ULS Archives &amp; Special Collections</publisher><p><date>1974</date></p><address><addressline>University of Pittsburgh Library System</addressline><addressline>Archives &amp; Special Collections</addressline><addressline>Website: library.pitt.edu/archives-special-collections</addressline><addressline>Business Number: 412-648-3232 (Thomas) | 412-648-8190 (Hillman)</addressline><addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline><addressline>URL: <extptr xlink:href="http://library.pitt.edu/archives-special-collections" xlink:show="new" xlink:title="http://library.pitt.edu/archives-special-collections" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-07-08 17:14:36 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>ULS Archives &amp; Special Collections</corpname>
+    </repository>
+    <unittitle>Smithfield Congregational Church, Pittsburgh, Pa. Records</unittitle>
+    <origination label="Creator">
+      <corpname source="naf">Smithfield Congregational Church (Pittsburgh, Pa.)</corpname>
+    </origination>
+    <unitid>AIS.1974.25</unitid>
+    <unitid type="aspace_uri">/repositories/10/resources/278</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">6 microfilm_reels</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1832/1971" type="inclusive">1832-1971</unitdate>
+    <abstract id="aspace_b30a31e339aaf975db65613d06659ca1" label="Abstract">The collection consists of six microfilm reels containing information regarding baptisms, weddings, funerals, confirmants, and communicants; along with, baptismal and confirmation registers, records of internments, and information regarding Orphan's Home from 1832-1971.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <bioghist id="aspace_c8c8400482151a5781e49ee20ef4557e">
+    <head>History</head>
+<p>The Evangelical Protestant Church was founded in 1782, incorporated in 1821, and is the oldest German congregation west of the Allegheny Mountains. The congregation is a descendant of the original German Reformed Protestant Church that received a land grant from the Penn family in 1787. The Evangelical Protestant Church is the mother church of the Voeghtly Evangelical Church (1833), First Lutheran Church (1837), German Trinity Lutheran Church (1837), St. Peter's Evangelical Lutheran Church (East End, 1839), Birmingham Evangelical Protestant Church (1846), and Grace Reformed Church (1854).</p><p>The first church building was constructed in 1792 and was replaced successively by new buildings in 1815, 1833, and 1875-1877. The Reformed congregation merged with a German Lutheran congregation to form the German Evangelical Protestant Church in 1812, which became the Smithfield Congregational Church in 1925. The present church building was built after the congregation sold or leased its land on Sixth Avenue and the former church was demolished for construction of a commercial building. The Smithfield Congregational Church (United Church of Christ) and the Smithfield Methodist Church merged in 1968 to create the Smithfield United Church.</p><p>The Smithfield United Church is a Gothic-style building and its unusual design was by one of Pittsburgh's premiere Classical architects, Henry Hornbostel. The building, a tall, blocky structure, included a main sanctuary, a chapel, Sunday school classrooms, a social hall, a shelter, and a gymnasium. The mass of the building culminates in a square tower that is capped by an openwork aluminum spire, an early architectural use of aluminum. The Gothic ornament on the exterior is a surface treatment, limited to the exterior stone panels attached to the steel structural frame. The tall, relatively narrow sanctuary at the top of the building is focused on the eighteen-foot-diameter rose window, which was relocated from the 1875 church. The sidewalls are lined with tall stained-glass windows that depict both the life and teachings of Christ, and the history of the congregation and the city of Pittsburgh. The interior ornament, like the exterior, is surface ornament dominated by Gothic arches, with plaster fan and groin vaults in the ceiling.</p><p>Hornbostel created a steel framed structure, clad with stone to evoke a religious presence, but still fit in to the urban context. His design was a three story structure with a single tower to maintain the spirituality of the Gothic style. He strayed from the rigid laws of religious architecure and added aspects of art deco and modernism. The abstract geometries, emphasized verticals and the open web of the aluminum spire made the church an eclectic work of art. The spire was the first example of aluminum used as a large scale architectural piece.</p>  </bioghist>
+  <scopecontent id="aspace_d064e3f75b4accb3b2fd60c66d6d2ba8">
+    <head>Scope and Content Notes</head>
+<p>The collection consists of six microfilm reels (35mm; 2,160 frames, positive). Reel one contains baptism, wedding, and funeral indexes from 1837-1971. Reel two contains information on confirmants, communicants, funerals, weddings, baptisms, and confirmation and tauf registers from 1832-1971. Reel three contains information on Orphan's Home from 1874-1941. Reel four contains information on baptisms and weddings from 1873-1971. Reel five contains information regarding funerals from 1873-1924. Reel six contains records of internments from 1887-1925.</p>  </scopecontent>
+  <accessrestrict id="aspace_8b579abc5dade7639cb1360950b13737">
+    <head>Access Restrictions</head>
+<p>No restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_6488957b4b7bf0f2990d58b1549a615b">
+    <head>Acquisition Information</head>
+<p>Donated by the Smithfield Congregational Church (Pittsburgh, Pa) in 1974.</p>  </acqinfo>
+  <altformavail id="aspace_d652d71db60035c9f305c22dc0621bc2">
+    <head>Existence and Location of Copies</head>
+<p>Originals are retained by the Smithfield Congregational Church, Pittsburgh, Pennsylvania.</p>  </altformavail>
+  <prefercite id="aspace_afbad1158c933e19cf3b08bcd84731de">
+    <head>Preferred Citation</head>
+<p>Smithfield Congregational Church Records, Pittsburgh, Pa., 1832-1971; AIS.1974.25, Archives &amp; Special Collections, University of Pittsburgh Library System</p>  </prefercite>
+  <odd id="aspace_1b7843a6e56792b541636f323b3c800b">
+    <head>Previous Citation</head>
+<p>Smithfield Congregational Church Records, Pittsburgh, Pa., 1832-1971; AIS.1974.25, Archives Service Center, University of Pittsburgh</p><p>Smithfield Congregational Church, Pittsburgh, Pa., Records, 1832-1971; Archives of Industrial Society, University Library System, University of Pittburgh</p>  </odd>
+  <processinfo id="aspace_1ed80b65e88501dd6926f6691ca38567">
+    <head>Processing Information </head>
+<p>This collection was reprocessed by Michael O'Malley on May 13, 2003.</p><p>Revision and rearrangement for the encoded version of the finding aid provided by Michael O'Malley on May 13, 2003. Information about the collection title and the controlled access terms was extracted from the MARC record in the University of Pittsburgh catalog Voyager ID number: 1406100</p>  </processinfo>
+  <userestrict id="aspace_d4a52dc6bb064547d541a0196d02709c">
+    <head>Copyright</head>
+<p>Permission for publication is given on behalf of the University of Pittsburgh as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which must also be obtained.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Evangelicalism -- Pennsylvania -- Pittsburgh</subject>
+    <subject source="lcsh">Church buildings -- Pennsylvania -- Pittsburgh</subject>
+    <subject source="lcsh">German Americans -- Pennsylvania -- Pittsburgh -- Religion</subject>
+    <genreform source="aat">Marriage records</genreform>
+    <subject source="ulstag">Churches and Synagogues</subject>
+    <genreform source="aat">Church records</genreform>
+    <subject source="lcsh">Confirmation records -- Pennsylvania -- Pittsburgh</subject>
+    <subject source="lcsh">Funeral records -- Pennsylvania -- Pittsburgh</subject>
+    <subject source="lcsh">Baptismal records -- Pennsylvania -- Pittsburgh</subject>
+    <genreform source="aat">Communion records</genreform>
+    <corpname source="naf">Voegtly Evangelical Church (Pittsburgh, Pa.)</corpname>
+    <corpname rules="aacr" source="local">Birmingham Evangelical Protestant Church (Pittsburgh, Pa.)</corpname>
+    <corpname rules="aacr" source="local">First English Lutheran Church (Pittsburgh, Pa.)</corpname>
+    <corpname rules="aacr" source="local">German Trinity Lutheran Church (Pittsburgh, Pa.)</corpname>
+    <corpname source="naf">Grace Reformed Church (Pittsburgh, Pa.)</corpname>
+    <corpname source="naf">Smithfield Congregational Church (Pittsburgh, Pa.)</corpname>
+    <corpname rules="aacr" source="local">St. Peter's Evangelical Lutheran Church (Pittsburgh, Pa.)</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref12_lqw" level="file"><did><unittitle>Baptism, Wedding, and Funeral Indexes</unittitle><unitid type="aspace_uri">/repositories/10/archival_objects/47361</unitid><unitdate datechar="creation" normal="1837/1971" type="inclusive">1837-1971</unitdate><container id="aspace_2b31567305cef5f1a08b8f711146107c" label="Microform" type="microfilm-cabinet">1</container><container id="aspace_104b44b00e150d04379049bdfe72b200" parent="aspace_2b31567305cef5f1a08b8f711146107c" type="drawer">7</container><container id="aspace_3a8180f609eacb088755f173b1ef60f3" parent="aspace_104b44b00e150d04379049bdfe72b200" type="reel">1</container></did></c01><c01 id="aspace_ref13_bgi" level="file"><did><unittitle>Confirmants, Communicants, Funerals, Weddings, Baptisms, and Confirmation and Baptismal Registers</unittitle><unitid type="aspace_uri">/repositories/10/archival_objects/47362</unitid><unitdate datechar="creation" normal="1832/1971" type="inclusive">1832-1971</unitdate><container id="aspace_1b3ca814b25333971f935a701ef090e4" label="Mixed Materials" type="microfilm-cabinet">1</container><container id="aspace_b205a93bfded0ea215bf262c79b28766" parent="aspace_1b3ca814b25333971f935a701ef090e4" type="drawer">7</container><container id="aspace_e41d5a8e91577d93ed5299440fa5fb02" parent="aspace_b205a93bfded0ea215bf262c79b28766" type="reel">2</container></did></c01><c01 id="aspace_ref14_3qd" level="file"><did><unittitle>Orphan's Home</unittitle><unitid type="aspace_uri">/repositories/10/archival_objects/47363</unitid><unitdate datechar="creation" normal="1874/1941" type="inclusive">1874-1941</unitdate><container id="aspace_7eb0bc90a24801fcdebf53697dbfb707" label="Mixed Materials" type="microfilm-cabinet">1</container><container id="aspace_67939d4c30211c25a57eabaf413cabfa" parent="aspace_7eb0bc90a24801fcdebf53697dbfb707" type="drawer">7</container><container id="aspace_4b751dd4d9b3737469b87359a1d76a88" parent="aspace_67939d4c30211c25a57eabaf413cabfa" type="reel">3</container></did></c01><c01 id="aspace_ref15_y5b" level="file"><did><unittitle>Baptisms and Weddings</unittitle><unitid type="aspace_uri">/repositories/10/archival_objects/47364</unitid><unitdate datechar="creation" normal="1873/1971" type="inclusive">1873-1971</unitdate><container id="aspace_25d6aabc0dc0099cec5c49486cfbcf68" label="Mixed Materials" type="microfilm-cabinet">1</container><container id="aspace_a008038c1b99a66fcee8f350c9ca7cdb" parent="aspace_25d6aabc0dc0099cec5c49486cfbcf68" type="drawer">7</container><container id="aspace_8a20b849d3ea9a3d17b6d50d68fe648b" parent="aspace_a008038c1b99a66fcee8f350c9ca7cdb" type="reel">4</container></did></c01><c01 id="aspace_ref16_hsw" level="file"><did><unittitle>Funerals</unittitle><unitid type="aspace_uri">/repositories/10/archival_objects/47365</unitid><unitdate datechar="creation" normal="1873/1924" type="inclusive">1873-1924</unitdate><container id="aspace_665f4ef02c41fd48076a86c525862f80" label="Mixed Materials" type="microfilm-cabinet">1</container><container id="aspace_552ec3c53a0a3743058eb8838094c7f5" parent="aspace_665f4ef02c41fd48076a86c525862f80" type="drawer">7</container><container id="aspace_c898a7c56c9d0ea617791e0a1ffbaed9" parent="aspace_552ec3c53a0a3743058eb8838094c7f5" type="reel">5</container></did></c01><c01 id="aspace_ref17_7ew" level="file"><did><unittitle>Records of Internments</unittitle><unitid type="aspace_uri">/repositories/10/archival_objects/47366</unitid><unitdate datechar="creation" normal="1887/1925" type="inclusive">1887-1925</unitdate><container id="aspace_ab359455358763c015c8526b421ea5fc" label="Mixed Materials" type="microfilm-cabinet">1</container><container id="aspace_da488c1306832f29dcec4b48f78b9c20" parent="aspace_ab359455358763c015c8526b421ea5fc" type="drawer">7</container><container id="aspace_22c16357c52d37b5fbf607ca4058e931" parent="aspace_da488c1306832f29dcec4b48f78b9c20" type="reel">6</container></did></c01></dsc>
+</archdesc>
+</ead>

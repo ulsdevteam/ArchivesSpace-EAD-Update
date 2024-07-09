@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">us-ppiu-ua910f</eadid><filedesc><titlestmt><titleproper>Guide to the Allan F. Jones' Pitt Football Team Photograph Collection, 1922 <num>UA.9.10.F</num></titleproper><author>Elvia Arroyo-Ramirez.</author></titlestmt><publicationstmt><publisher>ULS Archives &amp; Special Collections</publisher><p><date>July 2011</date></p><address><addressline>University of Pittsburgh Library System</addressline><addressline>Archives &amp; Special Collections</addressline><addressline>Website: library.pitt.edu/archives-special-collections</addressline><addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline><addressline>URL: <extptr xlink:href="http://library.pitt.edu/archives-special-collections" xlink:show="new" xlink:title="http://library.pitt.edu/archives-special-collections" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-06-11 09:41:00 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>ULS Archives &amp; Special Collections</corpname>
+    </repository>
+    <unittitle>Allan F. Jones' Pitt Football Team Photograph Collection</unittitle>
+    <origination label="Creator">
+      <persname rules="aacr" source="local">Jones, Allan F.</persname>
+    </origination>
+    <unitid>UA.9.10.F</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">(1 half box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1922/1922" type="inclusive">1922</unitdate>
+    <abstract id="aspace_5a33359ff7972ceb8002f80f4ba70693">This collection consists of 42 photographs of the 1922 University of Pittsburgh football team and include photographs of Coach Pop Warner, individual players, and groups.  Digital reproductions of this collection are  available <extref xlink:href="http://images.library.pitt.edu/cgi-bin/i/image/image-idx?q1=Allan+F.+Jones&amp;rgn1=hpicasc_cl&amp;type=simple&amp;c=hpicasc&amp;view=thumbnail">online</extref>.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <processinfo id="aspace_b9ae15b9541ced5df0ca294fb381c5b0">
+    <head>Processing Information</head>
+<p>This collection was processed by Elvia Arroyo-Ramirez on June 7, 2011.</p>  </processinfo>
+  <accessrestrict id="aspace_52c9aeb1a17a946c77a1f18c4d746936">
+    <head>Access Restrictions</head>
+<p>No restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_7796b01cc11e1245709f17fe5427daa1">
+    <head>Copyright</head>
+<p>No copyright restrictions.</p>  </userestrict>
+  <altformavail id="aspace_7e7400e721139798d56978a9a9ea7f5e">
+    <head>Existence and Location of Copies</head>
+<p>Digital reproductions of the collection are available <extref xlink:href="http://images.library.pitt.edu/cgi-bin/i/image/image-idx?q1=Allan+F.+Jones&amp;rgn1=hpicasc_cl&amp;type=simple&amp;c=hpicasc&amp;view=thumbnail">online</extref> as part of the University of Pittsburgh Historic Photographs collection.</p>  </altformavail>
+  <odd id="aspace_9ebad7f67191cd1d3009238d1d2d2ddf">
+    <head>Previous Citation</head>
+<p>Allan F. Jones' Pitt Football Team Photograph Collection, 1922, UA.9.10.F, University Archives, Archives Service Center, University of Pittsburgh</p>  </odd>
+  <prefercite id="aspace_06cc387367e3da5f785e49ec54dedb6a">
+    <head>Preferred Citation</head>
+<p>Allan F. Jones' Pitt Football Team Photograph Collection, 1922, UA.9.10.F, University Archives, Archives &amp; Special Collections, University of Pittsburgh Library System</p>  </prefercite>
+  <acqinfo id="aspace_93602c66fd1773e17deaf9316bd8e051">
+    <head>Acquisition Information</head>
+<p>Gift of Fran L. and John Everett Jones, the grandchildren of Allan F. Jones, on April 18, 2011.</p>  </acqinfo>
+  <scopecontent id="aspace_93526cb3047a5c293ca5e093b63b5b82">
+    <head>Scope and Content Notes</head>
+<p>These photographs were taken by Allan F. Jones in the early 1920s and are believed to be from the 1922 summer football training camp.  Two photographs are of Head Coach Glenn Scobey "Pop" Warner, who coached the Pitt Panthers from 1915-1923.  Identified players include: Nicholas Schuler, Edward "Ned" Newbaker, JC Winterburn, Marsh Johnson, Milo Gwosden, John E. "Tiny" Miller, Edward J. "Ned" Ashbaugh, and Frank W. "Pie" Williams.</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">Football coaches -- Pennsylvania -- Pittsburgh</subject>
+    <subject source="ulstag">Sports</subject>
+    <subject source="lcsh">Football players -- Pennsylvania -- Pittsburgh</subject>
+    <genreform source="aat">Photographs</genreform>
+    <subject source="ulstag">University of Pittsburgh</subject>
+    <subject source="lcsh">Football -- Pennsylvania -- Pittsburgh</subject>
+    <persname source="naf">Warner, Glenn S. (Glenn Scobey) -- Photographs</persname>
+    <corpname source="naf">Pitt Panthers (Football team) -- Photographs</corpname>
+    <corpname source="naf">University of Pittsburgh -- Football</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref11_5vg" level="file"><did><unittitle>Glenn Scobey "Pop" Warner</unittitle><unitdate datechar="creation" normal="1922/1922" type="inclusive">1922</unitdate><container id="aspace_228b396cdd860426cc7b34304a90ae10" label="photographic_images" type="box">1</container><container id="aspace_1e16394a567ed881163a6e63f4b63102" parent="aspace_228b396cdd860426cc7b34304a90ae10" type="folder">1</container></did></c01><c01 id="aspace_ref15_eyy" level="file"><did><unittitle>Allan Jones</unittitle><unitdate datechar="creation" normal="1922/1922" type="inclusive">1922</unitdate><container id="aspace_11179f22fb2d1d740d2c12c70b96ac68" label="photographic_images" type="box">1</container><container id="aspace_29fe2860869eb5675c901d612debf169" parent="aspace_11179f22fb2d1d740d2c12c70b96ac68" type="folder">2</container></did></c01><c01 id="aspace_ref17_gxn" level="file"><did><unittitle>"Doc" Weidle</unittitle><unitdate datechar="creation" normal="1922/1922" type="inclusive">1922</unitdate><container id="aspace_70497174913f21819ae48836c6991f4f" label="photographic_images" type="box">1</container><container id="aspace_dff6b7f71c1b47a1e93e61fc83df7ab7" parent="aspace_70497174913f21819ae48836c6991f4f" type="folder">3</container></did></c01><c01 id="aspace_ref18_a5e" level="file"><did><unittitle>Edward J. "Ned" Newbaker</unittitle><unitdate datechar="creation" normal="1922/1922" type="inclusive">1922</unitdate><container id="aspace_7e2eb799cdeba3a3518c5092f7cdb646" label="photographic_images" type="box">1</container><container id="aspace_3093667b2d1470f289b973b6e88af776" parent="aspace_7e2eb799cdeba3a3518c5092f7cdb646" type="folder">4</container></did></c01><c01 id="aspace_ref19_p1t" level="file"><did><unittitle>General Field Shots</unittitle><unitdate datechar="creation" normal="1922/1922" type="inclusive">1922</unitdate><container id="aspace_d83e80e611871c58273ddc05811cffdf" label="photographic_images" type="box">1</container><container id="aspace_7f0fb29250ab47c1ea28903528b6cd20" parent="aspace_d83e80e611871c58273ddc05811cffdf" type="folder">5</container></did></c01><c01 id="aspace_ref20_9n5" level="file"><did><unittitle>J. Charles Winterburn</unittitle><unitdate datechar="creation" normal="1922/1922" type="inclusive">1922</unitdate><container id="aspace_b147b50374f18c070e0a37e6fecfe517" label="photographic_images" type="box">1</container><container id="aspace_9863a0d2b7d09a400adde771ef38a385" parent="aspace_b147b50374f18c070e0a37e6fecfe517" type="folder">6</container></did></c01><c01 id="aspace_ref21_7m5" level="file"><did><unittitle>John E. "Tiny" Miller</unittitle><unitdate datechar="creation" normal="1922/1922" type="inclusive">1922</unitdate><container id="aspace_ef9c5450b133d33c597e337a6d4c5d1b" label="photographic_images" type="box">1</container><container id="aspace_917c20f127ea23a5985a7adb7d119f69" parent="aspace_ef9c5450b133d33c597e337a6d4c5d1b" type="folder">7</container></did></c01><c01 id="aspace_ref22_ajv" level="file"><did><unittitle>"Johnny"</unittitle><unitdate datechar="creation" normal="1922/1922" type="inclusive">1922</unitdate><container id="aspace_357f0db3e1d40ffe58e138773f7abed4" label="photographic_images" type="box">1</container><container id="aspace_f8f5000e431d2fc0df43994d47d3b4ad" parent="aspace_357f0db3e1d40ffe58e138773f7abed4" type="folder">8</container></did></c01><c01 id="aspace_ref16_3mo" level="file"><did><unittitle>Marsh Johnson</unittitle><unitdate datechar="creation" normal="1922/1922" type="inclusive">1922</unitdate><container id="aspace_abdd3bae8bc799ac66f05ac2fac6d06c" label="photographic_images" type="box">1</container><container id="aspace_20d9b8bb0c9a5b1ecabdcd542f82227c" parent="aspace_abdd3bae8bc799ac66f05ac2fac6d06c" type="folder">9</container></did></c01><c01 id="aspace_ref27_aj4" level="file"><did><unittitle>Milo Gwosden</unittitle><unitdate datechar="creation" normal="1922/1922" type="inclusive">1922</unitdate><container id="aspace_684b3d6788d1ef7a00606aa333f46e4b" label="photographic_images" type="box">1</container><container id="aspace_67d8ee5ffb375083f40f8b0a576a4cec" parent="aspace_684b3d6788d1ef7a00606aa333f46e4b" type="folder">10</container></did></c01><c01 id="aspace_ref23_04k" level="file"><did><unittitle>Nicholas Schuler</unittitle><unitdate datechar="creation" normal="1922/1922" type="inclusive">1922</unitdate><container id="aspace_2869bbf9662f744dbfb996e0f00f3587" label="photographic_images" type="box">1</container><container id="aspace_746e140c9b8c6e72af3ba9ad8a15eda4" parent="aspace_2869bbf9662f744dbfb996e0f00f3587" type="folder">11</container></did></c01><c01 id="aspace_ref24_l90" level="file"><did><unittitle>"Tommy" and Alec Stevenson (Tommy's father)</unittitle><container id="aspace_654ba0271a6b82d3de3c08bfcb0cb9f7" label="photographic_images" type="box">1</container><container id="aspace_eff4734d51ebcbeaffd0b8e368e3c013" parent="aspace_654ba0271a6b82d3de3c08bfcb0cb9f7" type="folder">12</container></did></c01><c01 id="aspace_ref25_zu7" level="file"><did><unittitle>Group Pictures</unittitle><unitdate datechar="creation" normal="1922/1922" type="inclusive">1922</unitdate><physdesc id="aspace_135d95d964791ead3835601bc2ef61c4" label="Container Summary">Individuals identified: "Tommy," Allan F. Jones, Marsh Johnson, Nick Schuler, Frank "Pie" Williams, JC Winterburn, Milo Gwosden, Ned Newbaker, William D. Ashbaugh,</physdesc><container id="aspace_803ce6e5eb6ccfd175bc848ffac38e7b" label="photographic_images" type="box">1</container><container id="aspace_ce8b90b2c7aa8735cb3e1fb2a0d0d1ca" parent="aspace_803ce6e5eb6ccfd175bc848ffac38e7b" type="folder">13</container></did></c01><c01 id="aspace_ref26_ykq" level="file"><did><unittitle>Unidentified</unittitle><unitdate datechar="creation" normal="1922/1922" type="inclusive">1922</unitdate><container id="aspace_b34412bbc92e12f6ae4c5d776d1e9f2d" label="photographic_images" type="box">1</container><container id="aspace_53c015dfd3e5ab08b2317c2a6dc6dc8c" parent="aspace_b34412bbc92e12f6ae4c5d776d1e9f2d" type="folder">14</container></did></c01></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">us-ppiu-ue11</eadid><filedesc><titlestmt><titleproper>Guide to the UE International Department Records, 1945-2003 <num>UE.11</num></titleproper><author>Zachary Brodt.</author></titlestmt><publicationstmt><publisher>ULS Archives &amp; Special Collections</publisher><p><date>June 2009</date></p><address><addressline>University of Pittsburgh Library System</addressline><addressline>Archives &amp; Special Collections</addressline><addressline>Website: library.pitt.edu/archives-special-collections</addressline><addressline>Business Number: 412-648-3232 (Thomas) | 412-648-8190 (Hillman)</addressline><addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline><addressline>URL: <extptr xlink:href="http://library.pitt.edu/archives-special-collections" xlink:show="new" xlink:title="http://library.pitt.edu/archives-special-collections" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-07-08 17:37:58 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>ULS Archives &amp; Special Collections</corpname>
+    </repository>
+    <unittitle>UE International Department Records</unittitle>
+    <origination label="Creator">
+      <corpname source="naf">United Electrical, Radio and Machine Workers of America</corpname>
+    </origination>
+    <unitid>UE.11</unitid>
+    <unitid type="aspace_uri">/repositories/10/resources/38</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">8.75 Linear Feet</extent>
+      <extent altrender="carrier">(7 boxes)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1945/2003" type="inclusive">1945-2003</unitdate>
+    <abstract id="aspace_1b1bc4695e63f1b1de4002d337ca7ba3" label="Abstract">The United Electrical, Radio, and Machine Workers of America (UE) developed its international department as a way for the union to address concerns associated with globalization. This record group contains correspondence, reports, publications, and clippings regarding the UE and United States' involvement in international labor relations.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <bioghist id="aspace_2f67824f483528e59ac1562017c5341c">
+    <head>History</head>
+<p>The United Electrical, Radio, and Machine Workers of America (UE) created its international department as a way for the union to address concerns associated with globalization. Beginning in 1945, the World Federation of Trade Unions was developed as the first real attempt at international labor solidarity allowing the Congress of Industrial Organizations in the United States, of which the UE was a part, to connect with other unions in the Soviet Union, Europe, Africa, Asia, and Latin America. As the Cold War set in, this group was split along ideological lines. Then in 1992, the UE developed the Strategic Organizing Alliance with Mexico's Frente Autentico del Trabajo, or Authentic Labor Front (FAT), in the pursuit of promoting international solidarity. Together, these organizations collaborate in educational and organizational efforts. In 1998 the UE joined the International Federation of Chemical, Energy and Mine and General Workers' Unions (ICEM) which is a global secretariat of labor unions. Since then, the UE has formed alliances with other labor unions around the world.</p>  </bioghist>
+  <scopecontent id="aspace_fea86003f6e550a08273c8007b8c8256">
+    <head>Scope and Content Notes</head>
+<p>This record group contains correspondence, reports, publications, and clippings regarding the UE and United States' involvement in international labor relations. Included is information on the World Federation of Trade Unions, as well international labor law and international solidarity work from the 1960s to the 1980s. Other files include records of a 1998 North American Free Trade Agreement National Administrative Office case between Echlin Inc. and several unions in Mexico, Canada, and the United States. Echlin was alleged to have hired 170 people to hold workers at a plant near Mexico City hostage to prevent them from joining a real labor union. Records regarding a UE trip to the Soviet Union in 1977 and issues of Mexican Labor News are also present.</p>  </scopecontent>
+  <arrangement id="aspace_8343f3e99d955b7357267031f427ae05">
+    <head>Arrangement</head>
+<p>This collection has been arranged by topic.</p>  </arrangement>
+  <accessrestrict id="aspace_73878373c36bb2ec67449b5b1d2faefa">
+    <head>Access Restrictions</head>
+<p>Records of the United Electrical, Radio, and Machine Workers of America are closed for a period of twenty-five years after their creation.</p>  </accessrestrict>
+  <acqinfo id="aspace_c3ca40f4c3019efe8ed6586d60559751">
+    <head>Acquisition Information</head>
+<p>Gift of the United Electrical, Radio, and Machine Workers of America on 1986, 1994, 1997, 2003, and 2004.</p>  </acqinfo>
+  <odd id="aspace_18c2b50db64dd2b00f21a57c6df597c3">
+    <head>Previous Citation</head>
+<p>UE International Department Records, 1945-2003, UE.11, Archives Service Center, University of Pittsburgh</p>  </odd>
+  <prefercite id="aspace_a0a94106f6c194556b6fd8d66ca9a075">
+    <head>Preferred Citation </head>
+<p>UE International Department Records, 1945-2003, UE.11, Archives &amp; Special Collections, University of Pittsburgh Library System</p>  </prefercite>
+  <processinfo id="aspace_674c7035d8e84c2cbb5ab958f6296d0f">
+    <head>Processing Information </head>
+<p>This collection was processed by Zachary Brodt in April 2009.</p>  </processinfo>
+  <userestrict id="aspace_4b2b1fbfbb59bd71eadccb42d4584716">
+    <head>Copyright</head>
+<p>The University of Pittsburgh holds the property rights to the material in this collection, but the copyright may still be held by the original creator/author. Researchers are therefore advised to follow the regulations set forth in the U.S. Copyright Code when publishing, quoting, or reproducing material from this collection without the consent of the creator/author or that go beyond what is allowed by fair use.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Labor unions and international relations</subject>
+    <subject source="lcsh">Labor unions -- Canada</subject>
+    <subject source="lcsh">Labor unions -- Mexico</subject>
+    <subject source="lcsh">Labor unions -- United States -- History</subject>
+    <subject source="lcsh">International labor activities</subject>
+    <subject source="ulstag">Labor</subject>
+    <subject source="lcsh">Electric industry workers -- Labor unions -- United States -- History</subject>
+    <corpname rules="aacr" source="local">Commission for Labor Cooperation. Canadian National Administrative Office</corpname>
+    <corpname source="naf">Echlin Inc</corpname>
+    <corpname source="naf">Frente Auténtico del Trabajo (Mexico)</corpname>
+    <corpname source="naf">NAFTA Secretariat</corpname>
+    <corpname source="naf">World Federation of Trade Unions</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref11_ymw" level="file"><did><unittitle>World Federation of Trade Unions</unittitle><unitid type="aspace_uri">/repositories/10/archival_objects/16175</unitid><unitdate datechar="creation" normal="1945/1962" type="inclusive">1945-1962</unitdate><container id="aspace_bf3efb6ac7f5f8ff5817e63a1920c49e" label="Mixed Materials" type="box">1</container></did></c01><c01 id="aspace_ref12_47c" level="file"><did><unittitle>World Federation of Trade Unions</unittitle><unitid type="aspace_uri">/repositories/10/archival_objects/16176</unitid><unitdate datechar="creation" normal="1963/1966" type="inclusive">1963-1966</unitdate><container id="aspace_c1b83ab7eb6318a707b6ca6f05b3815d" label="Mixed Materials" type="box">2</container></did></c01><c01 id="aspace_ref13_r0s" level="file"><did><unittitle>Latin American Labor</unittitle><unitid type="aspace_uri">/repositories/10/archival_objects/16177</unitid><unitdate datechar="creation" normal="1957/1969" type="inclusive">1957-1969</unitdate><container id="aspace_953a6c4376270e057c70bb08da6ae87b" label="Mixed Materials" type="box">2</container></did></c01><c01 id="aspace_ref14_ypr" level="file"><did><unittitle>Cross Boarder Mural Campaign</unittitle><unitid type="aspace_uri">/repositories/10/archival_objects/16178</unitid><unitdate datechar="creation">1990s</unitdate><container id="aspace_647c437823d1fe8ab8e7d4ba033c9932" label="Mixed Materials" type="box">3</container></did></c01><c01 id="aspace_ref15_duo" level="otherlevel" otherlevel="unspecified"><did><unittitle><title xlink:type="simple">Mexican Labor News and Analysis</title></unittitle><unitid type="aspace_uri">/repositories/10/archival_objects/16179</unitid><unitdate datechar="creation" normal="1996/1999" type="inclusive">1996-1999</unitdate><container id="aspace_a8ecb67347f4a293f226a987d593b925" label="Mixed Materials" type="box">3</container></did></c01><c01 id="aspace_ref16_u6w" level="file"><did><unittitle><title xlink:type="simple">Mexican Labor News and Analysis</title></unittitle><unitid type="aspace_uri">/repositories/10/archival_objects/16180</unitid><unitdate datechar="creation" normal="2000/2003" type="inclusive">2000-2003</unitdate><container id="aspace_21ef51c75b7aa2eaedded5d9bbc0fb01" label="Mixed Materials" type="box">4</container></did></c01><c01 id="aspace_ref17_0wi" level="otherlevel" otherlevel="unspecified"><did><unittitle>Foreign Correspondence and Research</unittitle><unitid type="aspace_uri">/repositories/10/archival_objects/16181</unitid><container id="aspace_cc9807190070771fbf6b000d4e120964" label="Mixed Materials" type="box">4</container></did></c01><c01 id="aspace_ref18_1zv" level="file"><did><unittitle>National Administrative Office v. Echlin</unittitle><unitid type="aspace_uri">/repositories/10/archival_objects/16182</unitid><unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate><container id="aspace_a5ab92c52d5d8f667b205a6aeb46b3d4" label="Mixed Materials" type="box">5-6</container></did></c01><c01 id="aspace_ref19_p1t" level="file"><did><unittitle>Canadian National Administrative Office Pamphlets</unittitle><unitid type="aspace_uri">/repositories/10/archival_objects/16183</unitid><unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate><container id="aspace_ce41759760efe9baeb43c7a4e7130031" label="Mixed Materials" type="box">7</container></did></c01><c01 id="aspace_ref20_xcz" level="otherlevel" otherlevel="unspecified"><did><unittitle>UE Trip to the Soviet Union</unittitle><unitid type="aspace_uri">/repositories/10/archival_objects/16184</unitid><unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate><container id="aspace_a0bcb2f4b2ef39e25ca7f33611c8e7c9" label="Mixed Materials" type="box">7</container></did></c01></dsc>
+</archdesc>
+</ead>

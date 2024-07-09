@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">us-ppiu-ais199905</eadid><filedesc><titlestmt><titleproper>Guide to the Marjorie T. Duck Environmental Collection, 1973-1995 <num>AIS.1999.05</num></titleproper><author>James Northway.</author></titlestmt><publicationstmt><publisher>ULS Archives &amp; Special Collections</publisher><p><date>April 2012</date></p><address><addressline>University of Pittsburgh Library System</addressline><addressline>Archives &amp; Special Collections</addressline><addressline>Website: library.pitt.edu/archives-special-collections</addressline><addressline>Contact Us: www.library.pitt.edu/ask-archivist</addressline><addressline>URL: <extptr xlink:href="http://library.pitt.edu/archives-special-collections" xlink:show="new" xlink:title="http://library.pitt.edu/archives-special-collections" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-06-11 09:50:36 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>ULS Archives &amp; Special Collections</corpname>
+    </repository>
+    <unittitle>Marjorie T. Duck Environmental Collection</unittitle>
+    <origination label="Creator">
+      <persname rules="aacr" source="local">Duck, Marjorie T.</persname>
+    </origination>
+    <unitid>AIS.1999.05</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.25 Linear Feet</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1973/1995" type="inclusive">1973-1995</unitdate>
+    <unitdate datechar="creation" normal="1977/1991" type="bulk">1977-1991</unitdate>
+    <abstract id="aspace_809996677ccceaa4f9d48408653cada8">The Marjorie T. Duck Environmental Collection is composed of publications related to the environmentalist movement.  The records date from 1973-1995.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <processinfo id="aspace_8de9fe73822d57b457fd723c545bbedf">
+    <head>Processing Information</head>
+<p>This collection was processed by James Northway in 2012.</p>  </processinfo>
+  <userestrict id="aspace_44610d7c697ce1b9f447934531c69cb1">
+    <head>Copyright</head>
+<p>The University of Pittsburgh holds the property rights to the material in this collection, but the copyright may still be held by the original creator/author. Researchers are therefore advised to follow the regulations set forth in the U.S. Copyright Code when publishing, quoting, or reproducing material from this collection without the consent of the creator/author or that go beyond what is allowed by fair use.</p>  </userestrict>
+  <acqinfo id="aspace_b97568fbb1ea5479574cbe010430111a">
+    <head>Acquisition Information</head>
+<p>Gift of Marjorie T. Duck on September 3, 2000.</p>  </acqinfo>
+  <bioghist id="aspace_63144bc350bc7b072118a539d8f4aecc">
+    <head>Biography</head>
+<p>Starting in the 1970's, Marjorie Thompson Duck worked in support of environmentalist causes of both national and local importance to Eastern Pennsylvania.  Her personal interest in clean energy led to her involvement in an organization dedicated to environmental outreach in local schools.  In the organization Mrs. Duck served as librarian and collected educational materials.  The name of the organization and the exact time frame of Ms. Duck's involvement is not known.</p>  </bioghist>
+  <odd id="aspace_88b04f09d453dcae4fc8d9fe215d5c64">
+    <head>Previous Citation</head>
+<p>Marjorie T. Duck Environmental Collection, 1973-1995, AIS.1999.05, Archives Service Center, University of Pittsburgh</p>  </odd>
+  <prefercite id="aspace_7675f1a3c45025e44341fd811319d6b3">
+    <head>Preferred Citation</head>
+<p>Marjorie T. Duck Environmental Collection, 1973-1995, AIS.1999.05, Archives &amp; Special Collections, University of Pittsburgh Library System</p>  </prefercite>
+  <scopecontent id="aspace_22509872b07c30995da47cb2db78e0bc">
+    <head>Scope and Content Notes</head>
+<p>The Marjorie T. Duck Environmental Collection consists predominately of publications and printed material on issues related to energy production and the proposed installation of a hazardous waste incinerator in Allenwood, Pennsylvania.  The materials range in date from 1973 to 1995.</p>  </scopecontent>
+  <arrangement id="aspace_e904fe3df2134e823e3901b6fa6e3d51">
+    <head>Arrangement</head>
+<p>The Marge Duck Environmental Collection is arranged into two series:</p><p>Series I. Energy, 1973-1991</p><p>Series II. Hazardous Waste Incinerator, 1986-1995</p>  </arrangement>
+  <controlaccess>
+    <subject source="lcsh">Incinerators</subject>
+    <subject source="lcsh">Hazardous wastes -- Incineration</subject>
+    <subject source="lcsh">Environmentalists</subject>
+    <subject source="ulstag">Environment</subject>
+    <subject source="lcsh">Solar energy</subject>
+    <subject source="ulstag">Social action</subject>
+    <subject source="lcsh">Environmental protection</subject>
+    <subject source="lcsh">Green movement</subject>
+    <subject source="lcsh">Environmentalism</subject>
+    <subject source="lcsh">Nuclear energy</subject>
+    <persname rules="aacr" source="local">Duck, Marjorie T.</persname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref42_f90" level="series"><did><unittitle>Energy</unittitle><unitid>I.</unitid></did><scopecontent id="aspace_2dc6a27d6bd69e3fa771d3879d5c73b3"><head>Scope and Content Notes</head><p>This series contains publications and printed pamphlets related to a host of energy related subjects.  These subjects include: anti-nuclear energy publications, consumer energy saving guides, environmental organization energy publications, individual viewpoints on energy, local government energy strategy, passive solar energy research studies, pro-solar energy publications, Pennsylvania state government energy strategy, and sustainable design.</p></scopecontent><c02 id="aspace_ref1_obg" level="file"><did><unittitle>Anti-Nuclear Energy Publications</unittitle><unitdate datechar="creation" normal="1973/1977" type="inclusive">1973-1977</unitdate><container id="aspace_fd262b2c0406da997f497f64c43f1ca7" label="Mixed Materials" type="box">1</container><container id="aspace_750ff850c6b2153dd5eb4755fc307317" parent="aspace_fd262b2c0406da997f497f64c43f1ca7" type="folder">1</container></did></c02><c02 id="aspace_ref2_nwh" level="file"><did><unittitle>Consumer Energy Saving Guides</unittitle><unitdate datechar="creation" normal="1977/1991" type="inclusive">1977-1991</unitdate><container id="aspace_16b722085e01ecf560ba68cba34ec6db" label="Mixed Materials" type="box">1</container><container id="aspace_734f4b2f15906921d86e97408e42a06d" parent="aspace_16b722085e01ecf560ba68cba34ec6db" type="folder">2</container></did></c02><c02 id="aspace_ref5_rsq" level="file"><did><unittitle>Environmental Organizations</unittitle><unitdate datechar="creation" normal="1976/1991" type="inclusive">1976-1991</unitdate><container id="aspace_86f95c91955bc8812b5d52336904f616" label="Mixed Materials" type="box">1</container><container id="aspace_cbd4e33c8c4853425076ce754641f2df" parent="aspace_86f95c91955bc8812b5d52336904f616" type="folder">3</container></did></c02><c02 id="aspace_ref3_ndj" level="file"><did><unittitle>Local Government Energy Strategy</unittitle><unitdate datechar="creation" normal="1975/1978" type="inclusive">1975-1978</unitdate><container id="aspace_ca0c9cea9fd6a2db7241724aff175c6e" label="Mixed Materials" type="box">2</container><container id="aspace_856d4e873c209934cdf8363957a3e7b1" parent="aspace_ca0c9cea9fd6a2db7241724aff175c6e" type="folder">4</container></did></c02><c02 id="aspace_ref12_8w6" level="file"><did><unittitle>Passive Solar Energy Research Studies</unittitle><unitdate datechar="creation" normal="1981/1982" type="inclusive">1981-1982</unitdate><container id="aspace_b358f5089aab52c4f7a71005962b8806" label="Mixed Materials" type="box">2</container><container id="aspace_40c5ba20f1cba1c1339770b2b38d3f68" parent="aspace_b358f5089aab52c4f7a71005962b8806" type="folder">5</container></did></c02><c02 id="aspace_ref6_3vu" level="file"><did><unittitle>Pennsylvania State Government Energy Strategy</unittitle><unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate><container id="aspace_180a4648098f350c04bc62897cc5bb11" label="Mixed Materials" type="box">2</container><container id="aspace_f02cf00f670fe8ed16586d1c8c30f9ca" parent="aspace_180a4648098f350c04bc62897cc5bb11" type="folder">6</container></did></c02><c02 id="aspace_ref11_ksm" level="file"><did><unittitle>Pro-Solar Energy Publications</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate><container id="aspace_4e49fbf0680a6e23086f4a7ed9c1a7c3" label="Mixed Materials" type="box">2</container><container id="aspace_398f4a4dcc17154f136a27f339fbe165" parent="aspace_4e49fbf0680a6e23086f4a7ed9c1a7c3" type="folder">7</container></did></c02><c02 id="aspace_ref10_kc3" level="file"><did><unittitle>Sustainable Design</unittitle><unitdate datechar="creation" normal="1977/1992" type="inclusive">1977 - 1992</unitdate><container id="aspace_765dd7f67552b790d0b03c4054d961b3" label="Mixed Materials" type="box">2</container><container id="aspace_27e6aa425665528d286eca8e3a525f8a" parent="aspace_765dd7f67552b790d0b03c4054d961b3" type="folder">8</container></did></c02><c02 id="aspace_ref7_3oy" level="file"><did><unittitle>Viewpoints on Energy</unittitle><unitdate datechar="creation">1977 - Circa 1985</unitdate><container id="aspace_bf1e2c7c8a3d69f85067f90be1dc38d2" label="Mixed Materials" type="box">2</container><container id="aspace_809efb78a3ea9bf28337b3fcad924bda" parent="aspace_bf1e2c7c8a3d69f85067f90be1dc38d2" type="folder">9</container></did></c02></c01><c01 id="aspace_ref4_3m2" level="series"><did><unittitle>Hazardous Waste Incinerator</unittitle><unitid>II.</unitid></did><scopecontent id="aspace_1ede7c5a2f5dcb4a6ee5c0893d1d77ee"><head>Scope and Content Notes</head><p>This series contains materials relating to proposals to build a hazardous waste incinerator in Allenwood, PA.  The series is divided into two folders.  The first folder contains primarily public relations material issued by USPCI Inc., a Union Pacific subsidiary that wanted to build and operate the hazardous waste incinerator.  The materials date from 1986-1995, years when the incinerator plans were going through the approval process through state government.  The plan for the incinerator was supported by the Department of Environmental Resources(DER)but ultimately failed.    The second folder contains newsletters from Organizations United for the Environment (OUE) voicing opposition to the construction of the incinerator through their "Ban the Burner" campaign.</p></scopecontent><c02 id="aspace_ref16_5y7" level="file"><did><unittitle>Corporate Public Relations Material</unittitle><unitdate datechar="creation" normal="1986/1991" type="inclusive">1986-1991</unitdate><container id="aspace_ebf2948325150d7023a919aa7b659edc" label="Mixed Materials" type="box">2</container><container id="aspace_cef502e710903ce3533dfa4df76bfa0a" parent="aspace_ebf2948325150d7023a919aa7b659edc" type="folder">10</container></did></c02><c02 id="aspace_ref14_1zg" level="file"><did><unittitle>Environmental Organization Newsletters</unittitle><unitdate datechar="creation" normal="1991/1995" type="inclusive">1991-1995</unitdate><container id="aspace_84b881db06ee300c871ee48835b61883" label="Mixed Materials" type="box">2</container><container id="aspace_3b8243f2333e64a8e31cfb450d4e715c" parent="aspace_84b881db06ee300c871ee48835b61883" type="folder">11</container></did></c02></c01></dsc>
+</archdesc>
+</ead>
